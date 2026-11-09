@@ -17,6 +17,10 @@ export default async function decorate(block) {
   const path = new URL(getMetadata('footer') || '/footer', window.location).pathname;
   const fragment = await loadFragment(path);
   if (!fragment) return;
+  // Pipeline-generated heading IDs must not shadow main-page section anchors.
+  fragment.querySelectorAll(':is(h1,h2,h3,h4,h5,h6)[id]').forEach((heading) => {
+    heading.id = `footer-${heading.id}`;
+  });
   const sections = [...fragment.children];
   const inner = slot('footer-inner');
   const grid = slot('footer-grid');
