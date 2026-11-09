@@ -64,4 +64,6 @@ Chronological prompt journal. Most recent entry is at the bottom.
 
 **Production:** Not published; main is not merged.
 
+**Pull request:** Code and acceptance evidence are pushed, but the active GitHub token cannot create a PR (GraphQL and REST both denied). The prepared body follows the repository template. Manual creation: https://github.com/mtilburgadobe/aem-3m-branding/compare/main...3m-homepage?expand=1
+
 ---

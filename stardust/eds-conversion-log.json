@@ -11,7 +11,12 @@
     "previewUrl": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/",
     "authoringUrl": "https://da.live/edit#/mtilburgadobe/aem-3m-branding/index",
     "contentDocuments": ["index", "nav", "footer"],
-    "productionPublish": false
+    "productionPublish": false,
+    "pullRequest": {
+      "status": "blocked",
+      "reason": "The active GitHub token cannot create pull requests; both GraphQL and REST returned 403. Code and acceptance evidence are pushed.",
+      "manualCreateUrl": "https://github.com/mtilburgadobe/aem-3m-branding/compare/main...3m-homepage?expand=1"
+    }
   },
   "models": [
     {
