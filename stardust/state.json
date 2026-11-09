@@ -1,16 +1,20 @@
 {
   "_provenance": {
-    "writtenBy": "stardust:prototype",
-    "writtenAt": "2026-11-09T08:34:23.048Z",
+    "writtenBy": "stardust:deploy",
+    "writtenAt": "2026-11-09T09:49:33Z",
     "readArtifacts": [
       "stardust/state.json",
       "stardust/prototypes/home-proposed.html",
-      "stardust/validation/home/summary.json"
+      "stardust/validation/home/summary.json",
+      "stardust/eds-conversion-log.json",
+      "stardust/validation/aem-home/summary.json"
     ]
   },
   "site": {
     "originUrl": "https://www.3m.com/",
-    "deployUrl": null,
+    "deployUrl": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/",
+    "deployMode": "preview-only",
+    "productionPublished": false,
     "extractedAt": "2026-11-09T07:16:29.669Z",
     "pageCap": 1,
     "totalDiscovered": 1,
@@ -28,7 +32,7 @@
       "url": "https://www.3m.com/",
       "title": "3M Science. Applied to Life. 3M United States",
       "type": "landing",
-      "status": "prototyped",
+      "status": "migrated",
       "history": [
         {
           "status": "extracted",
@@ -41,13 +45,18 @@
         {
           "status": "prototyped",
           "at": "2026-11-09T08:34:23.048Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-09T09:49:33Z",
+          "mode": "preview-only"
         }
       ],
       "stale": false,
       "staleReason": null,
       "currentStatePath": "stardust/current/pages/index.json",
       "prototypePath": "stardust/prototypes/home-proposed.html",
-      "migratedPath": null,
+      "migratedPath": "content/index.html",
       "prototypeSha256": "054b9d9a1871cc406d2857a3628b9a2d1e8ea86335a3eff409202228cdffa5d7",
       "validation": {
         "at": "2026-11-09T08:34:23.048Z",
@@ -65,7 +74,13 @@
           360
         ],
         "approval": "approved",
-        "approvalEvidence": "looks good, let's move this into AEM in the project in the current directory"
+        "approvalEvidence": "looks good, let's move this into AEM in the project in the current directory",
+        "aem": {
+          "at": "2026-11-09T09:49:33Z",
+          "status": "passed",
+          "report": "stardust/validation/aem-home/summary.json",
+          "previewUrl": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/"
+        }
       }
     }
   ]

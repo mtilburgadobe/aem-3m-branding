@@ -7,6 +7,9 @@
   "delivery": {
     "branch": "3m-homepage",
     "mode": "preview-only",
+    "status": "verified",
+    "previewUrl": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/",
+    "authoringUrl": "https://da.live/edit#/mtilburgadobe/aem-3m-branding/index",
     "contentDocuments": ["index", "nav", "footer"],
     "productionPublish": false
   },
@@ -96,6 +99,26 @@
     "body": "H264 playback, error/retry, reduced motion, tab keyboard/select, optional-content handling and six-width overflow checks passed",
     "unitSuite": "No test script exists; focused real-browser tests cover the DOM and interactive changes",
     "cssTokens": "0 undefined references"
+  },
+  "deliveredValidation": {
+    "report": "stardust/validation/aem-home/summary.json",
+    "content": "All three DA writes verified by byte-identical read-back and delivered preview HTTP200. Main has one h1, 19 ingested images, ten industries and six stories.",
+    "layout": "Zero heading x/width/y or document-height delta against the approved prototype at 1920, 1440, 1280, 768 and 390px. Nine responsive widths have no overflow or collapsed images.",
+    "chrome": "Desktop header/footer 100% pixel match; phone header 100%, footer 99.99%. Lossless Media Bus logo pixels equal the approved original.",
+    "interactions": "Verified delivered keyboard tabs, editable-label selection, native phone select, menu/Escape/focus-out/resize, required original Ntt GET and real H264 play/pause/error/retry.",
+    "cls": "Fetch-delayed preview: 0 desktop, 0.001314 tablet, 0.001341 phone; each below 0.1.",
+    "aiReadability": "Strict and code scores 100%; main served-gap 15 runtime control words, chrome gap 81 words. Nine previously JS-only industry panels now ship server-side.",
+    "keyFacts": "Gate skipped: DESIGN.json declares no extensions.metadata.keyFacts.",
+    "lighthouse": "Mobile performance90; desktop100; accessibility and best practices100 on both. SEO69 is the deliberate AEM preview noindex protection, not a production SEO result.",
+    "noJavaScript": "Authored main content remains visible with all 19 editorial images and a working native industry anchor.",
+    "fixesFromActualDelivery": [
+      "Namespace generated footer heading IDs so footer News does not duplicate the main #news anchor.",
+      "Place company styles outside the retained stock columns desktop media query; verify exact company grid and caption styling below 900px.",
+      "Constrain generated arrow line boxes to avoid 12px news and 65px compact-company geometry drift.",
+      "Use the original-size lossless Media Bus PNG for the brand lockup, retaining the authored image identity.",
+      "Let the film button's visible text provide its accessible name; an overriding label had failed WCAG label-in-name."
+    ],
+    "artifactSafety": "Verified content/, stardust/ and DESIGN.json are inaccessible on the preview origin. Only the curated acceptance JSON and two review screenshots are explicitly tracked from the otherwise ignored validation tree."
   },
   "acceptance": {
     "functional": [

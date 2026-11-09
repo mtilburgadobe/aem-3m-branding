@@ -1,0 +1,206 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-11-09T09:49:30.104Z",
+  "scope": "Approved homepage migrated to authorable AEM Edge Delivery content; feature-branch preview only",
+  "branch": "3m-homepage",
+  "codeRevision": "3d0b94137ebf93919c3ab5760b691588bcd7325e",
+  "previewUrl": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/",
+  "productionPublished": false,
+  "mainMerged": false,
+  "delivery": [
+    {
+      "path": "/nav",
+      "put": 200,
+      "readBack": 200,
+      "preview": 200,
+      "delivery": 200,
+      "images": 1,
+      "url": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/nav"
+    },
+    {
+      "path": "/footer",
+      "put": 200,
+      "readBack": 200,
+      "preview": 200,
+      "delivery": 200,
+      "images": 1,
+      "url": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/footer"
+    },
+    {
+      "path": "/",
+      "put": 201,
+      "readBack": 200,
+      "preview": 200,
+      "delivery": 200,
+      "images": 19,
+      "url": "https://3m-homepage--aem-3m-branding--mtilburgadobe.aem.page/"
+    }
+  ],
+  "authoredContent": {
+    "industryPanels": 10,
+    "newsStories": 6,
+    "companyLinks": 7,
+    "editorialMainImages": 19,
+    "chromeImages": 2,
+    "headingOnes": 1
+  },
+  "widths": [
+    1920,
+    1440,
+    1280,
+    960,
+    768,
+    640,
+    390,
+    375,
+    360
+  ],
+  "geometry": [
+    {
+      "width": 1920,
+      "headingsExact": true,
+      "documentHeightDelta": 0
+    },
+    {
+      "width": 1440,
+      "headingsExact": true,
+      "documentHeightDelta": 0
+    },
+    {
+      "width": 1280,
+      "headingsExact": true,
+      "documentHeightDelta": 0
+    },
+    {
+      "width": 768,
+      "headingsExact": true,
+      "documentHeightDelta": 0
+    },
+    {
+      "width": 390,
+      "headingsExact": true,
+      "documentHeightDelta": 0
+    }
+  ],
+  "chromeCrops": [
+    {
+      "region": "header",
+      "width": 1440,
+      "matchPercent": 100,
+      "differencePercent": 0
+    },
+    {
+      "region": "footer",
+      "width": 1440,
+      "matchPercent": 100,
+      "differencePercent": 0
+    },
+    {
+      "region": "header",
+      "width": 390,
+      "matchPercent": 100,
+      "differencePercent": 0
+    },
+    {
+      "region": "footer",
+      "width": 390,
+      "matchPercent": 99.99,
+      "differencePercent": 0.01
+    }
+  ],
+  "delayedLoadCLS": [
+    {
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "width": 768,
+      "cls": 0.0013131751543209878
+    },
+    {
+      "width": 390,
+      "cls": 0.001340534188034188
+    }
+  ],
+  "interactive": [
+    "Keyboard tab wrapping/Home/End",
+    "Editable-label click",
+    "Native mobile industry selection",
+    "Menu utilities/Escape/focus-out/resize",
+    "Native required original Ntt GET",
+    "Reduced-motion no film download",
+    "Real code-origin H264 play/pause",
+    "Aborted request error and successful retry"
+  ],
+  "noJavaScript": "Authored main content visible; all 19 editorial images and native industry anchor retained",
+  "pageErrors": [],
+  "cspErrors": [],
+  "experienceWorkspace": {
+    "authored": 68,
+    "editable": 68,
+    "dead": 0,
+    "duplicated": 0,
+    "editDrift": 0,
+    "blockHeightDelta": 0
+  },
+  "modelLint": {
+    "errors": 0,
+    "advisories": 0
+  },
+  "roundTrip": {
+    "structuralErrors": 0,
+    "matchedEditableTexts": 65
+  },
+  "qaGate": {
+    "passed": 20,
+    "failed": 0,
+    "advisory": "Company schema order heuristic cannot match its section ID; manually verified all seven company destinations."
+  },
+  "aiReadability": {
+    "strict": 100,
+    "code": 100,
+    "threshold": 98,
+    "mainServedGapWords": 15,
+    "note": "Runtime film/control/select strings; nine inactive industry panels are newly server-authored, not invented."
+  },
+  "keyFactsGate": "Skipped: no DESIGN.json extensions.metadata.keyFacts declared",
+  "lighthouse": {
+    "mobile": {
+      "performance": 90,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100,
+      "cls": 0.001600136971482517
+    },
+    "desktop": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100,
+      "cls": 0.005533360015257046
+    }
+  },
+  "previewIndexing": "SEO 69 reflects the intentional aem.page noindex protection; no production indexing claim",
+  "lint": {
+    "command": "npx --yes --package=node@24.15.0 -- npm run lint",
+    "result": "passed",
+    "finalCSSCommand": "npx --yes --package=node@24.15.0 -- npm run lint:css",
+    "finalCSSResult": "passed"
+  },
+  "imageProvenance": "All 21 approved rasters ingested from DA. The header uses an original-size lossless Media Bus PNG with pixel-identical data to the approved lockup.",
+  "fidelityCorrections": [
+    "Namespaced footer heading IDs to avoid shadowing #news",
+    "Moved company rules outside the legacy desktop media query",
+    "Constrained news/company arrow line boxes",
+    "Preserved lossless lockup and intrinsic aspect ratio",
+    "Film control accessible name comes from its visible label"
+  ],
+  "localizationExceptions": "Four source-root service referrals intentionally remain external; see eds-conversion-log.json",
+  "publicationSafety": ".hlxignore excludes content/, stardust/ and DESIGN.json; all three checked as inaccessible on preview",
+  "screenshots": [
+    "desktop.png",
+    "phone.png"
+  ]
+}
