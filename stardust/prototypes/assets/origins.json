@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-11-09T08:23:28.117Z",
+  "assets": [
+    {
+      "file": "news-1.jpg",
+      "origin": "https://news.3m.com/image/U.S.+manufacturing_thumb.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "news-2-thumb.jpg",
+      "origin": "https://news.3m.com/image/YSC-Winner-2026-social.png",
+      "processing": "Resized to 480px wide and JPEG encoded; original photograph preserved."
+    },
+    {
+      "file": "news-3-thumb.jpg",
+      "origin": "https://news.3m.com/image/GettyImages-2171324207_social.jpg",
+      "processing": "Resized to 480px wide and JPEG encoded; original photograph preserved."
+    },
+    {
+      "file": "news-4-thumb.jpg",
+      "origin": "https://news.3m.com/image/v3_For+News+Center+3m-iatd-3m-mix-monitor-photo-img-1034.jpg",
+      "processing": "Resized to 480px wide and JPEG encoded; original photograph preserved."
+    },
+    {
+      "file": "news-5-thumb.jpg",
+      "origin": "https://news.3m.com/image/hero.jpg",
+      "processing": "Resized to 480px wide and JPEG encoded; original photograph preserved."
+    },
+    {
+      "file": "news-6-thumb.jpg",
+      "origin": "https://news.3m.com/image/IMG_4167_thumbnail.jpg",
+      "processing": "Resized to 480px wide and JPEG encoded; original photograph preserved."
+    },
+    {
+      "file": "mmmVtabs1.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526168E/industries-hero-automotive-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs2.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526169E/industries-hero-commercial-solutions-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs3.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526170E/industries-hero-consumer-markets-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs4.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526171E/industries-hero-design-and-construction-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs5.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526162E/industries-hero-electronics-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs6.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526163E/industries-hero-energy-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs7.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526164E/industries-hero-government-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs8.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526165E/industries-hero-manufacturing-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs9.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526166E/industries-hero-safety-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "mmmVtabs10.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2526167E/industries-hero-transportation-rgb-jpeg.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "ask-3m.png",
+      "origin": "https://multimedia.3m.com/mws/media/2815912O/ask-3m-design-engineer-golf.png",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "about-texture.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2525951Z/about-us-background.jpg",
+      "processing": "Original captured asset."
+    },
+    {
+      "file": "3m-lockup.png",
+      "origin": "Supplied corp-gsg-3m-brand-visual-identity-guidelines-us-en.pdf, pp22–23 approved artwork.",
+      "processing": "Rendered PDF artwork; only surrounding page whitespace cropped."
+    },
+    {
+      "file": "3m-logo.png",
+      "origin": "Supplied corp-gsg-3m-brand-visual-identity-guidelines-us-en.pdf, pp22–23 approved artwork.",
+      "processing": "Rendered PDF artwork; only surrounding page whitespace cropped."
+    },
+    {
+      "file": "hero-poster.jpg",
+      "origin": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+      "processing": "Frame at four seconds from the original science film."
+    },
+    {
+      "file": "science-film.mp4",
+      "origin": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+      "processing": "1280x720 H.264, 24fps, no audio, fast-start; original film content."
+    }
+  ]
+}

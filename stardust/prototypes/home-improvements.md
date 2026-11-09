@@ -1,0 +1,8 @@
+<!-- stardust:provenance writtenBy: stardust:direct; readArtifacts: current/pages/index.json, current/assets/screenshots/index.png, current/brand-review.html; synthesized: concrete improvement agenda -->
+# Homepage improvements
+
+1. **[Accessibility / media] Blank reduced-motion hero.** The captured video has no poster and the 1440px screenshot shows a large empty first-screen media region. Fix: preserve the original film, generate its own frame poster, provide pause/play and intentional reduced-motion behavior.
+2. **[Hierarchy] Uneven heading scale.** Captured sizes 18, 22, 32, 36, 42px include a 36→42 ratio of only 1.167 and a company H2 with 70px leading. Fix: a legible stepped hierarchy with PDF 1.1 headline leading and a clear H1.
+3. **[Density] Six equal news tiles.** The screenshot devotes two rows of similarly sized white cards to six headlines, including a 131-character young-scientist headline. Fix: one lead story plus a five-story list; keep full titles and all six destinations.
+4. **[Task discovery] Ten industry choices follow two news rows and the assistant banner.** All ten selectors are captured, but the first solutions panel appears deep in the page. Fix: carry product/industry/brand routes in the first viewport and place the full industry panel immediately after the hero.
+5. **[Identity] Legacy link-blue and muted gray copy.** Live sampled styles include rgb(0,51,204) text and rgb(75,75,75) body/UI type; the supplied PDF p37 limits typography to black, white and purposeful red. Fix: normalize authored text to PDF-compliant black/white/red while retaining source artwork unchanged.

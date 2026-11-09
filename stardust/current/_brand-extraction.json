@@ -1,0 +1,877 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-09T07:16:29.669Z",
+    "readArtifacts": [
+      "stardust/current/pages/index.json",
+      "stardust/current/assets/screenshots/index.png"
+    ],
+    "synthesizedInputs": [
+      "Frequency aggregation and inferred component roles"
+    ],
+    "notes": "Homepage-only sample. PDF governs the target, not this descriptive snapshot."
+  },
+  "site": {
+    "name": "3M",
+    "tagline": "3M applies science and innovation to make a real impact by igniting progress and inspiring innovation in lives and communities across the globe.",
+    "originUrl": "https://www.3m.com/"
+  },
+  "origins": [
+    {
+      "origin": "https://www.3m.com",
+      "role": "primary",
+      "pagesCaptured": 1,
+      "contributedSignals": []
+    }
+  ],
+  "logo": {
+    "source": "img",
+    "sourceSelector": "img[src*=\"Logo.svg\"]",
+    "localPath": "stardust/current/assets/logo.svg",
+    "format": "svg",
+    "intrinsicWidth": 159,
+    "intrinsicHeight": 28,
+    "synthesized": false
+  },
+  "palette": [
+    {
+      "value": "rgb(75, 75, 75)",
+      "occurrences": 49,
+      "role": "text-secondary",
+      "usedAs": [
+        "text",
+        "background"
+      ],
+      "sourceSelectors": [
+        "body.MMM--bodyContain.MMM--body_1440",
+        "nav.m-nav",
+        "button.m-header_searchbutton"
+      ],
+      "sources": [
+        "index"
+      ]
+    },
+    {
+      "value": "rgb(0, 51, 204)",
+      "occurrences": 18,
+      "role": "legacy-link-blue",
+      "usedAs": [
+        "text"
+      ],
+      "sourceSelectors": [
+        "a.",
+        "a.",
+        "a."
+      ],
+      "sources": [
+        "index"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "occurrences": 26,
+      "role": "background",
+      "usedAs": [
+        "text",
+        "background"
+      ],
+      "sourceSelectors": [
+        "nav.m-nav",
+        "#navbar_link-products",
+        "#navbar_link-industries"
+      ],
+      "sources": [
+        "index"
+      ]
+    },
+    {
+      "value": "rgb(0, 0, 0)",
+      "occurrences": 10,
+      "role": "text-primary",
+      "usedAs": [
+        "text"
+      ],
+      "sourceSelectors": [
+        "h3.mds-font_header--5",
+        "h3.mds-font_header--5",
+        "h3.mds-font_header--5"
+      ],
+      "sources": [
+        "index"
+      ]
+    },
+    {
+      "value": "rgb(209, 4, 17)",
+      "occurrences": 8,
+      "role": "brand-red",
+      "usedAs": [
+        "text",
+        "background"
+      ],
+      "sourceSelectors": [
+        "button.mds-button.mds-button_primary.mds-button_primary--large",
+        "a.js-contentToggle-trigger_related.MMM--isActive",
+        "a.mds-link"
+      ],
+      "sources": [
+        "index"
+      ]
+    },
+    {
+      "value": "rgb(32, 32, 36)",
+      "occurrences": 11,
+      "role": "dark-surface",
+      "usedAs": [
+        "text"
+      ],
+      "sourceSelectors": [
+        "a.js-contentToggle-trigger_related",
+        "a.js-contentToggle-trigger_related",
+        "a.js-contentToggle-trigger_related"
+      ],
+      "sources": [
+        "index"
+      ]
+    }
+  ],
+  "type": {
+    "headingFamily": {
+      "name": "3MCircular",
+      "stack": "\"3MCircular\", Arial, sans-serif"
+    },
+    "bodyFamily": {
+      "name": "3MCircular",
+      "stack": "\"3MCircular\", Arial, sans-serif"
+    },
+    "headingStyles": [
+      {
+        "selector": "h1.mds-font_hero--text",
+        "tag": "h1",
+        "text": "What the world needs next, we are making now.",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.mds-content-cards_title.mds-font_hero--text",
+        "tag": "h2",
+        "text": "What’s new",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "25px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "The materials science powering semiconductor innovation",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "A customer challenge inspired the 3M Adhesive Mix Monitor",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "From electronics to agriculture: How 3M film technology is helping manage light in new ways",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.mds-heroBanner_title.mds-font_header--2a",
+        "tag": "h2",
+        "text": "From challenge to solution, in one conversation.",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "44px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.MMM--hdg.MMM--hdg_2.mix-MMM--hdg_spaced",
+        "tag": "h2",
+        "text": "What we do",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-content-cards_title.mds-font_header--4",
+        "tag": "h3",
+        "text": "Accelerating solutions to the industry’s toughest challenges",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.mds-content-cards_title.mds-font_hero--text",
+        "tag": "h2",
+        "text": "Who we are",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "70px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--1",
+        "tag": "h3",
+        "text": "People. Ideas. Science. Reimagining what's possible.",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "45px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      }
+    ],
+    "files": [
+      {
+        "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Book..woff",
+        "file": "assets/fonts/3MCircularWeb-Book..woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      },
+      {
+        "url": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/fonts/3MThemeIconFont/fonts/3MThemeIconFont.woff?i2w8ja",
+        "file": "assets/fonts/3MThemeIconFont.woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      },
+      {
+        "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Bold..woff",
+        "file": "assets/fonts/3MCircularWeb-Bold..woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      },
+      {
+        "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Light..woff",
+        "file": "assets/fonts/3MCircularWeb-Light..woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      }
+    ],
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "sizes": [
+        18,
+        22,
+        32,
+        36,
+        42
+      ],
+      "ratios": [
+        1.222,
+        1.455,
+        1.125,
+        1.167
+      ],
+      "source": "pages/index.json#styles"
+    }
+  },
+  "spacing": {
+    "baseUnit": null,
+    "observed": [
+      {
+        "value": "0px",
+        "occurrences": 200
+      },
+      {
+        "value": "1px",
+        "occurrences": 1
+      },
+      {
+        "value": "10px",
+        "occurrences": 2
+      },
+      {
+        "value": "15px",
+        "occurrences": 26
+      },
+      {
+        "value": "25px",
+        "occurrences": 1
+      },
+      {
+        "value": "20px",
+        "occurrences": 2
+      }
+    ],
+    "note": "Only vertical element padding sampled; no inferred grid token."
+  },
+  "motifs": {
+    "borderRadius": {
+      "primary": "0px",
+      "occurrences": [
+        {
+          "value": "0px",
+          "occurrences": 110
+        },
+        {
+          "value": "0px 20px 20px 0px",
+          "occurrences": 1
+        },
+        {
+          "value": "2px",
+          "occurrences": 5
+        }
+      ]
+    },
+    "shadows": [
+      {
+        "value": "none",
+        "occurrences": 116
+      }
+    ],
+    "patterns": [
+      "video-hero",
+      "six-news-card-grid",
+      "vertical-industry-tabs",
+      "photo-backed-assistant",
+      "textured-company-panel"
+    ]
+  },
+  "componentStyle": {
+    "buttons": "red rectangular CTA",
+    "cards": "white flat news cards",
+    "inputs": "pill search field",
+    "dualCTAPattern": false
+  },
+  "systemComponents": [
+    {
+      "kind": "header",
+      "count": 1,
+      "scope": "home-only",
+      "ctaLabels": [
+        "Products",
+        "Industries",
+        "Brands",
+        "Account",
+        "US - EN"
+      ],
+      "source": "pages/index.html#js-gsnMenu"
+    },
+    {
+      "kind": "footer",
+      "count": 1,
+      "scope": "home-only",
+      "headingSequence": [
+        "Our Company",
+        "News",
+        "Regulatory",
+        "Help",
+        "Follow Us"
+      ],
+      "source": "pages/index.html"
+    }
+  ],
+  "iconFont": {
+    "family": "3MThemeIconFont",
+    "file": "assets/fonts/3MThemeIconFont.woff",
+    "codepoints": null,
+    "note": "File captured; codepoint map not sampled. Do not synthesize glyphs."
+  },
+  "voice": {
+    "heroHeadline": "What the world needs next, we are making now.",
+    "firstParagraph": "Meet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes.",
+    "heroImage": null,
+    "heroMedium": {
+      "kind": "video",
+      "url": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+      "localPath": "stardust/current/assets/media/hero.mp4",
+      "poster": null,
+      "source": "#homepage_HeroVideo",
+      "note": "Blank under reduced motion; source video has no poster."
+    },
+    "ctaSamples": [
+      "Try Ask 3M",
+      "Auto Care",
+      "Where to Buy"
+    ],
+    "navItems": [
+      "Products",
+      "Industries",
+      "Brands"
+    ]
+  },
+  "voiceTable": {
+    "ctaFrequency": [
+      {
+        "label": "Go to US Navigation",
+        "count": 1
+      },
+      {
+        "label": "Go to 3M United States Navigation",
+        "count": 1
+      },
+      {
+        "label": "Go to Page Content",
+        "count": 1
+      },
+      {
+        "label": "Go to Search",
+        "count": 1
+      },
+      {
+        "label": "Go to Contact Information",
+        "count": 1
+      },
+      {
+        "label": "Go to Site Map",
+        "count": 1
+      },
+      {
+        "label": "Account",
+        "count": 1
+      },
+      {
+        "label": "US - EN",
+        "count": 1
+      },
+      {
+        "label": "Products",
+        "count": 1
+      },
+      {
+        "label": "Industries",
+        "count": 1
+      },
+      {
+        "label": "Brands",
+        "count": 1
+      },
+      {
+        "label": "October 29, 2026\n\nThe materials science powering semiconductor innovation\n\nAI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...",
+        "count": 1
+      },
+      {
+        "label": "October 14, 2026\n\n13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification\n\n3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...",
+        "count": 1
+      },
+      {
+        "label": "October 5, 2026\n\nA note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island\n\nAn iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...",
+        "count": 1
+      },
+      {
+        "label": "September 22, 2026\n\nA customer challenge inspired the 3M Adhesive Mix Monitor\n\nNew products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...",
+        "count": 1
+      },
+      {
+        "label": "September 15, 2026\n\nFrom electronics to agriculture: How 3M film technology is helping manage light in new ways\n\nFor decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...",
+        "count": 1
+      },
+      {
+        "label": "September 8, 2026\n\nAfter a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience\n\nAfter a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...",
+        "count": 1
+      },
+      {
+        "label": "3M News Center",
+        "count": 1
+      },
+      {
+        "label": "Try Ask 3M",
+        "count": 2
+      },
+      {
+        "label": "Automotive",
+        "count": 1
+      },
+      {
+        "label": "Commercial Solutions",
+        "count": 1
+      },
+      {
+        "label": "Consumer",
+        "count": 1
+      },
+      {
+        "label": "Design & Construction",
+        "count": 1
+      },
+      {
+        "label": "Electronics",
+        "count": 1
+      },
+      {
+        "label": "Energy",
+        "count": 1
+      },
+      {
+        "label": "Government",
+        "count": 1
+      },
+      {
+        "label": "Manufacturing",
+        "count": 1
+      },
+      {
+        "label": "Safety",
+        "count": 1
+      },
+      {
+        "label": "Transportation",
+        "count": 1
+      },
+      {
+        "label": "Auto Care",
+        "count": 1
+      },
+      {
+        "label": "Collision Repair",
+        "count": 1
+      },
+      {
+        "label": "Manufacturing & Assembly",
+        "count": 1
+      },
+      {
+        "label": "OEM & Tier",
+        "count": 1
+      },
+      {
+        "label": "Post-Factory Installation",
+        "count": 1
+      },
+      {
+        "label": "Solventum",
+        "count": 1
+      },
+      {
+        "label": "Leadership",
+        "count": 1
+      },
+      {
+        "label": "Investment",
+        "count": 1
+      },
+      {
+        "label": "Careers",
+        "count": 1
+      },
+      {
+        "label": "Research and Development",
+        "count": 1
+      },
+      {
+        "label": "Sustainability",
+        "count": 2
+      },
+      {
+        "label": "People and Community",
+        "count": 2
+      },
+      {
+        "label": "History",
+        "count": 1
+      },
+      {
+        "label": "OUR COMPANY",
+        "count": 1
+      },
+      {
+        "label": "About 3M",
+        "count": 1
+      },
+      {
+        "label": "3M Careers",
+        "count": 1
+      },
+      {
+        "label": "Investor Relations",
+        "count": 1
+      },
+      {
+        "label": "Customers and Suppliers",
+        "count": 1
+      },
+      {
+        "label": "Ethics & Compliance",
+        "count": 1
+      },
+      {
+        "label": "NEWS",
+        "count": 1
+      },
+      {
+        "label": "News Center",
+        "count": 1
+      },
+      {
+        "label": "Press Releases",
+        "count": 1
+      },
+      {
+        "label": "REGULATORY",
+        "count": 1
+      },
+      {
+        "label": "SDS, RDS, More Regulatory & Compliance Information",
+        "count": 1
+      },
+      {
+        "label": "Transport Information Search",
+        "count": 1
+      },
+      {
+        "label": "CPSIA Certification Search",
+        "count": 1
+      },
+      {
+        "label": "Lithium Battery UN 38.3 Test Summary Search",
+        "count": 1
+      },
+      {
+        "label": "Batteries and Battery Embedded Products",
+        "count": 1
+      },
+      {
+        "label": "Transparency in Supply Chains and Modern Slavery Disclosures",
+        "count": 1
+      },
+      {
+        "label": "US Ingredient Communication",
+        "count": 1
+      },
+      {
+        "label": "Product Recalls",
+        "count": 1
+      },
+      {
+        "label": "HELP",
+        "count": 1
+      },
+      {
+        "label": "Help Center",
+        "count": 1
+      },
+      {
+        "label": "Site Map",
+        "count": 1
+      },
+      {
+        "label": "Where to Buy",
+        "count": 1
+      },
+      {
+        "label": "Report Counterfeit",
+        "count": 1
+      },
+      {
+        "label": "Legal",
+        "count": 1
+      },
+      {
+        "label": "Privacy",
+        "count": 1
+      },
+      {
+        "label": "HIPAA Privacy",
+        "count": 1
+      },
+      {
+        "label": "DMCA",
+        "count": 1
+      },
+      {
+        "label": "Accessibility Statement",
+        "count": 1
+      },
+      {
+        "label": "Your Privacy Choices",
+        "count": 1
+      },
+      {
+        "label": "Cookie Preferences",
+        "count": 1
+      }
+    ],
+    "headingFrequency": [
+      {
+        "value": "What the world needs next, we are making now.",
+        "occurrences": 1
+      },
+      {
+        "value": "What’s new",
+        "occurrences": 1
+      },
+      {
+        "value": "The materials science powering semiconductor innovation",
+        "occurrences": 1
+      },
+      {
+        "value": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification",
+        "occurrences": 1
+      },
+      {
+        "value": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island",
+        "occurrences": 1
+      },
+      {
+        "value": "A customer challenge inspired the 3M Adhesive Mix Monitor",
+        "occurrences": 1
+      },
+      {
+        "value": "From electronics to agriculture: How 3M film technology is helping manage light in new ways",
+        "occurrences": 1
+      },
+      {
+        "value": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience",
+        "occurrences": 1
+      },
+      {
+        "value": "From challenge to solution, in one conversation.",
+        "occurrences": 1
+      },
+      {
+        "value": "What we do",
+        "occurrences": 1
+      },
+      {
+        "value": "Accelerating solutions to the industry’s toughest challenges",
+        "occurrences": 1
+      },
+      {
+        "value": "Who we are",
+        "occurrences": 1
+      },
+      {
+        "value": "People. Ideas. Science. Reimagining what's possible.",
+        "occurrences": 1
+      }
+    ],
+    "toneMetrics": {
+      "headingsUppercasePercent": 0,
+      "distinctHeadings": 13,
+      "distinctCtaLabels": 72
+    }
+  },
+  "crossPromo": {
+    "detected": false,
+    "reason": "Single-page capture cannot establish cross-page repetition."
+  },
+  "register": "brand"
+}

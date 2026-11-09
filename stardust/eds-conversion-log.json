@@ -1,0 +1,131 @@
+{
+  "prototype": "stardust/prototypes/home-proposed.html",
+  "approval": {
+    "status": "approved",
+    "evidence": "looks good, let's move this into AEM in the project in the current directory"
+  },
+  "delivery": {
+    "branch": "3m-homepage",
+    "mode": "preview-only",
+    "contentDocuments": ["index", "nav", "footer"],
+    "productionPublish": false
+  },
+  "models": [
+    {
+      "section": "hero",
+      "block": "hero",
+      "pattern": "Block Collection hero, cinematic two-column composition",
+      "shape": "container",
+      "decode": "node-slotted",
+      "rows": "One row: headline and emphasized CTA | authored poster, standalone film URL, caption",
+      "optional": "Poster, film URL, caption and CTA may be omitted independently",
+      "runtimeText": ["Play film", "Pause film", "Retry film", "Film unavailable. Try again to play."]
+    },
+    {
+      "section": "industries",
+      "block": "tabs",
+      "pattern": "Block Collection tabs: label/content row pairs",
+      "shape": "container",
+      "decode": "reconstructive",
+      "rows": "One row per industry: label paragraph | picture, h3, prose and links",
+      "defaultContent": "Section h2 before the block; healthcare note after the block",
+      "optional": "Any number of rows; optional image, description and links",
+      "runtimeText": ["Choose your industry"],
+      "editability": "Authored label paragraphs are siblings of chevron-only tab buttons, never inside buttons"
+    },
+    {
+      "section": "news",
+      "block": "cards",
+      "variant": "news",
+      "pattern": "Block Collection cards: image/content row pairs",
+      "shape": "container",
+      "decode": "reconstructive",
+      "rows": "One row per story: picture | displayed date, h3 with story link, optional Read story paragraph",
+      "defaultContent": "Section h2 and newsroom link before the block",
+      "optional": "Any number of stories; first story is the lead; no inferred summary completion"
+    },
+    {
+      "section": "assistant",
+      "defaultContent": true,
+      "style": "assistant",
+      "shape": "simple",
+      "decode": "native",
+      "content": "h2, paragraph, emphasized external referral, picture",
+      "reason": "Plain prose and image with no repeating units or bespoke interaction"
+    },
+    {
+      "section": "company",
+      "block": "columns",
+      "variant": "company",
+      "pattern": "Block Collection columns: two rich-content cells",
+      "shape": "container",
+      "decode": "node-slotted",
+      "rows": "One row: authored texture and statement | list of company links",
+      "defaultContent": "Section h2 before the block",
+      "optional": "Image or statement may be omitted; variable-length link list"
+    }
+  ],
+  "chrome": {
+    "nav": "Three default-content sections: brand link, primary link list, tools including search destination/label and utility links",
+    "footer": "One default-content section per footer group, then legal and trademark bands",
+    "decode": "node-slotted",
+    "behavior": "Native disclosure menu at <=960px; Escape/focus-out/viewport changes close it; native required GET product search"
+  },
+  "media": {
+    "editorial": "Upload approved prototype rasters to DA media/home; author content.da.live URLs",
+    "film": "/media/home/science-film.mp4 on the code origin",
+    "favicon": "Approved captured favicon copied to the repository root",
+    "fonts": "Approved Arial/Helvetica system stack; no proprietary webfonts"
+  },
+  "conversionDecisions": [
+    "Keep the approved prototype immutable; its pending approval annotations describe its generation-time state. Explicit subsequent user approval is recorded here and in state.json.",
+    "Preserve approved 640/960/1280px desktop-first rules rather than translating breakpoints and risking fidelity.",
+    "Section metadata Id supplies the original industries/news/company anchors; only the prose assistant uses a Style value.",
+    "All ten captured industry panels are authored server-side. The prototype only renders one at a time, so round-trip EXTRA panels/images are intentional, not invented content.",
+    "Brand-home link is local. Four source-root referrals remain deliberately external: Account/location, privacy choices, cookie preferences and the captured Window Films destination. The source-owned services were not migrated; the generic localizer reports these four exceptions and must not rewrite them to an inert local homepage.",
+    "The bundled EW harness used older bare-link/button-container behavior. Its ignored local runtime mimic was corrected to the inspected scripts.js formatted-only/button-wrapper contract; no application behavior was changed to satisfy the probe.",
+    "The installed default Node20 cannot run the repository's existing Stylelint18. Restore pinned dependencies with npm ci, then run npm run lint through isolated Node24.15.0; do not alter project dependency versions."
+  ],
+  "preDeploymentValidation": {
+    "lintCommand": "npx --yes --package=node@24.15.0 -- npm run lint",
+    "lintResult": "passed",
+    "modelLint": "0 errors, 0 advisories",
+    "roundTrip": "All four blocks matched by hero / #industries / #news / #company; 0 structural errors",
+    "experienceWorkspace": "68/68 authored texts retained; 0 dead, 0 duplicate, 0 edit-mode drift, 0 block-height delta",
+    "chrome": "Native search, menu, Escape and breakpoint relocation passed at 1440/960/768/640/390/360px",
+    "body": "H264 playback, error/retry, reduced motion, tab keyboard/select, optional-content handling and six-width overflow checks passed",
+    "unitSuite": "No test script exists; focused real-browser tests cover the DOM and interactive changes",
+    "cssTokens": "0 undefined references"
+  },
+  "acceptance": {
+    "functional": [
+      "Preserve approved copy, all ten industries, all six stories, complete footer and original destination URLs",
+      "One served h1, real title/description, no about:error images",
+      "Native Ntt GET search; working keyboard tabs/mobile select and menu utilities",
+      "Film autoplay respects reduced motion/data saving; pause, visibility handling and genuine error/retry work",
+      "No invented search results, chatbot, scientific imagery or editorial claims"
+    ],
+    "edgeCases": [
+      "Empty blocks and missing optional cells do not throw",
+      "Authors may add/remove industry and story rows",
+      "Moving authored nodes preserves prose/image indices; no duplicated indices",
+      "No-JS page retains authored content and working destination links"
+    ],
+    "responsive": [
+      "Desktop: 1344px content maximum, 48px margins/gutters and three-column underlying geometry",
+      "Tablet <=960px: persistent search, disclosure menu including account/location; news stacks",
+      "Phone <=640px: 24px margins, native 48px industry select, stacked hero/assistant/company",
+      "No horizontal overflow at 360, 390, 768, 1280, 1440 and 1920px"
+    ],
+    "brand": [
+      "#D10411 red, pure black/white typography, approved unchanged logo artwork",
+      "Arial/Helvetica, 1.1 heading leading, -0.005em tracking floor, flat rectangles",
+      "Reproduce approved prototype per-instance variation: active red industry label, lead news story and white-on-red referral CTA"
+    ],
+    "done": [
+      "Repository lint and focused browser/editability/round-trip gates pass",
+      "Preview-delivered plain HTML, decorated layout, media and controls are verified",
+      "Feature branch and template-compliant PR include actual aem.page preview URL; no main merge or production content publish"
+    ]
+  }
+}

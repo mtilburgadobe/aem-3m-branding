@@ -1,0 +1,3286 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-09T07:08:56.448Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200,
+    "enrichedAt": "2026-11-09T07:12:45.309Z",
+    "notes": "Live style/asset enrichment; rejected nonessential cookies. Industry panels include authored hidden-panel content. Video captured but source has no reduced-motion poster."
+  },
+  "slug": "index",
+  "url": "https://www.3m.com/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-09T07:08:56.448Z",
+  "finalUrl": "https://www.3m.com/",
+  "title": "3M Science. Applied to Life. 3M United States",
+  "description": "3M applies science and innovation to make a real impact by igniting progress and inspiring innovation in lives and communities across the globe.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "What the world needs next, we are making now."
+    },
+    {
+      "tag": "h2",
+      "text": "What’s new"
+    },
+    {
+      "tag": "h3",
+      "text": "The materials science powering semiconductor innovation"
+    },
+    {
+      "tag": "h3",
+      "text": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification"
+    },
+    {
+      "tag": "h3",
+      "text": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island"
+    },
+    {
+      "tag": "h3",
+      "text": "A customer challenge inspired the 3M Adhesive Mix Monitor"
+    },
+    {
+      "tag": "h3",
+      "text": "From electronics to agriculture: How 3M film technology is helping manage light in new ways"
+    },
+    {
+      "tag": "h3",
+      "text": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience"
+    },
+    {
+      "tag": "h2",
+      "text": "From challenge to solution, in one conversation."
+    },
+    {
+      "tag": "h2",
+      "text": "What we do"
+    },
+    {
+      "tag": "h3",
+      "text": "Accelerating solutions to the industry’s toughest challenges"
+    },
+    {
+      "tag": "h2",
+      "text": "Who we are"
+    },
+    {
+      "tag": "h3",
+      "text": "People. Ideas. Science. Reimagining what's possible."
+    }
+  ],
+  "body": [
+    "Products",
+    "Industries",
+    "Brands",
+    "October 29, 2026",
+    "AI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...",
+    "October 14, 2026",
+    "3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...",
+    "October 5, 2026",
+    "An iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...",
+    "September 22, 2026",
+    "New products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...",
+    "September 15, 2026",
+    "For decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...",
+    "September 8, 2026",
+    "After a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...",
+    "Our news feed is currently unavailable. Visit the 3M News Center for the latest news.",
+    "Meet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes.",
+    "Automotive",
+    "Commercial Solutions",
+    "Consumer",
+    "Design & Construction",
+    "Electronics",
+    "Energy",
+    "Government",
+    "Manufacturing",
+    "Safety",
+    "Transportation",
+    "Accelerating solutions to the industry’s toughest challenges\n\nOur solutions help manufacture, maintain, or advance nearly every vehicle in the world. So, when we apply our diverse portfolio of technologies and 100-plus years of expertise to customer challenges, we can advance efficiency, performance, longevity, and safety for the entire industry.\n\nAuto Care\nCollision Repair\nManufacturing & Assembly\nOEM & Tier\nPost-Factory Installation",
+    "Our solutions help manufacture, maintain, or advance nearly every vehicle in the world. So, when we apply our diverse portfolio of technologies and 100-plus years of expertise to customer challenges, we can advance efficiency, performance, longevity, and safety for the entire industry.",
+    "Auto Care",
+    "Collision Repair",
+    "Manufacturing & Assembly",
+    "OEM & Tier",
+    "Post-Factory Installation",
+    "3M Healthcare is now Solventum.",
+    "Leadership",
+    "Investment",
+    "Careers",
+    "Research and Development",
+    "Sustainability",
+    "People and Community",
+    "History",
+    "OUR COMPANY\nAbout 3M\n3M Careers\nInvestor Relations\nCustomers and Suppliers\nSustainability\nPeople and Community\nEthics & Compliance",
+    "About 3M",
+    "3M Careers",
+    "Investor Relations",
+    "Customers and Suppliers",
+    "Sustainability",
+    "People and Community",
+    "Ethics & Compliance",
+    "NEWS\nNews Center\nPress Releases",
+    "News Center",
+    "Press Releases",
+    "REGULATORY\nSDS, RDS, More Regulatory & Compliance Information\nTransport Information Search\nCPSIA Certification Search\nLithium Battery UN 38.3 Test Summary Search\nBatteries and Battery Embedded Products\nTransparency in Supply Chains and Modern Slavery Disclosures\nUS Ingredient Communication\nProduct Recalls",
+    "SDS, RDS, More Regulatory & Compliance Information",
+    "Transport Information Search",
+    "CPSIA Certification Search",
+    "Lithium Battery UN 38.3 Test Summary Search",
+    "Batteries and Battery Embedded Products",
+    "Transparency in Supply Chains and Modern Slavery Disclosures",
+    "US Ingredient Communication",
+    "Product Recalls",
+    "HELP\nHelp Center\nSite Map\nWhere to Buy\nReport Counterfeit",
+    "Help Center",
+    "Site Map",
+    "Where to Buy",
+    "Report Counterfeit"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Go to US Navigation",
+      "href": "https://www.3m.com/#js-gsnMenu"
+    },
+    {
+      "label": "Go to 3M United States Navigation",
+      "href": "https://www.3m.com/#ssnMenu"
+    },
+    {
+      "label": "Go to Page Content",
+      "href": "https://www.3m.com/#pageContent"
+    },
+    {
+      "label": "Go to Search",
+      "href": "https://www.3m.com/#js-searchBar"
+    },
+    {
+      "label": "Go to Contact Information",
+      "href": "https://www.3m.com/#help--links"
+    },
+    {
+      "label": "Go to Site Map",
+      "href": "https://www.3m.com/3M/en_US/company-us/site-map/"
+    },
+    {
+      "label": "Account",
+      "href": "https://www.3m.com/#"
+    },
+    {
+      "label": "US - EN",
+      "href": "https://www.3m.com/#"
+    },
+    {
+      "label": "Products",
+      "href": "https://www.3m.com/#"
+    },
+    {
+      "label": "Industries",
+      "href": "https://www.3m.com/#"
+    },
+    {
+      "label": "Brands",
+      "href": "https://www.3m.com/3M/en_US/company-us/our-brands/"
+    },
+    {
+      "label": "October 29, 2026\n\nThe materials science powering semiconductor innovation\n\nAI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...",
+      "href": "https://news.3m.com/The-materials-science-powering-semiconductor-innovation"
+    },
+    {
+      "label": "October 14, 2026\n\n13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification\n\n3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...",
+      "href": "https://news.3m.com/13-Year-Old-Raji-Doshi-named-Americas-Top-Young-Scientist-for-inventing-natural-system-to-reduce-CO2-driven-ocean-acidification"
+    },
+    {
+      "label": "October 5, 2026\n\nA note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island\n\nAn iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...",
+      "href": "https://news.3m.com/A-note-worthy-cameo-Post-it-R-Brand-featured-in-DreamWorks-Animations-Forgotten-Island"
+    },
+    {
+      "label": "September 22, 2026\n\nA customer challenge inspired the 3M Adhesive Mix Monitor\n\nNew products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...",
+      "href": "https://news.3m.com/A-customer-challenge-inspired-the-3M-Adhesive-Mix-Monitor"
+    },
+    {
+      "label": "September 15, 2026\n\nFrom electronics to agriculture: How 3M film technology is helping manage light in new ways\n\nFor decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...",
+      "href": "https://news.3m.com/From-electronics-to-agriculture-How-3M-film-technology-is-helping-manage-light-in-new-ways"
+    },
+    {
+      "label": "September 8, 2026\n\nAfter a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience\n\nAfter a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...",
+      "href": "https://news.3m.com/After-a-tornado,-ScotchBlue-Painters-Tape-became-an-unexpected-sign-of-resilience"
+    },
+    {
+      "label": "3M News Center",
+      "href": "https://news.3m.com/3M-stories"
+    },
+    {
+      "label": "Try Ask 3M",
+      "href": null
+    },
+    {
+      "label": "Try Ask 3M",
+      "href": "https://ask.3m.com/?intcid=homepage-aug-26"
+    },
+    {
+      "label": "Automotive",
+      "href": "https://www.3m.com/#mmmVtabs1"
+    },
+    {
+      "label": "Commercial Solutions",
+      "href": "https://www.3m.com/#mmmVtabs2"
+    },
+    {
+      "label": "Consumer",
+      "href": "https://www.3m.com/#mmmVtabs3"
+    },
+    {
+      "label": "Design & Construction",
+      "href": "https://www.3m.com/#mmmVtabs4"
+    },
+    {
+      "label": "Electronics",
+      "href": "https://www.3m.com/#mmmVtabs5"
+    },
+    {
+      "label": "Energy",
+      "href": "https://www.3m.com/#mmmVtabs6"
+    },
+    {
+      "label": "Government",
+      "href": "https://www.3m.com/#mmmVtabs7"
+    },
+    {
+      "label": "Manufacturing",
+      "href": "https://www.3m.com/#mmmVtabs8"
+    },
+    {
+      "label": "Safety",
+      "href": "https://www.3m.com/#mmmVtabs9"
+    },
+    {
+      "label": "Transportation",
+      "href": "https://www.3m.com/#mmmVtabs10"
+    },
+    {
+      "label": "Auto Care",
+      "href": "https://www.3m.com/3M/en_US/auto-care-us/"
+    },
+    {
+      "label": "Collision Repair",
+      "href": "https://www.3m.com/3M/en_US/collision-repair-us/"
+    },
+    {
+      "label": "Manufacturing & Assembly",
+      "href": "https://www.3m.com/3M/en_US/automotive-manufacturing-and-assembly-us/"
+    },
+    {
+      "label": "OEM & Tier",
+      "href": "https://www.3m.com/3M/en_US/oem-tier-us/"
+    },
+    {
+      "label": "Post-Factory Installation",
+      "href": "https://www.3m.com/3M/en_US/post-factory-installation-us/"
+    },
+    {
+      "label": "Solventum",
+      "href": "https://www.solventum.com/en-us/home/"
+    },
+    {
+      "label": "Leadership",
+      "href": "https://investors.3m.com/governance/corporate-officers"
+    },
+    {
+      "label": "Investment",
+      "href": "https://investors.3m.com/"
+    },
+    {
+      "label": "Careers",
+      "href": "https://www.3m.com/3M/en_US/careers-us/"
+    },
+    {
+      "label": "Research and Development",
+      "href": "https://www.3m.com/3M/en_US/about-3m/research-development/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://www.3m.com/3M/en_US/sustainability-us/"
+    },
+    {
+      "label": "People and Community",
+      "href": "https://www.3m.com/3M/en_US/about-3m/people-community/"
+    },
+    {
+      "label": "History",
+      "href": "https://www.3m.com/3M/en_US/about-3m/history/"
+    },
+    {
+      "label": "OUR COMPANY",
+      "href": null
+    },
+    {
+      "label": "About 3M",
+      "href": "https://www.3m.com/3M/en_US/about-3m/"
+    },
+    {
+      "label": "3M Careers",
+      "href": "https://www.3m.com/3M/en_US/careers-us/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investors.3m.com/"
+    },
+    {
+      "label": "Customers and Suppliers",
+      "href": "https://www.3m.com/3M/en_US/company-us/partners-suppliers/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "https://www.3m.com/3M/en_US/sustainability-us/"
+    },
+    {
+      "label": "People and Community",
+      "href": "https://www.3m.com/3M/en_US/about-3m/people-community/"
+    },
+    {
+      "label": "Ethics & Compliance",
+      "href": "https://www.3m.com/3M/en_US/about-3m/ethics-compliance/"
+    },
+    {
+      "label": "NEWS",
+      "href": null
+    },
+    {
+      "label": "News Center",
+      "href": "https://news.3m.com/"
+    },
+    {
+      "label": "Press Releases",
+      "href": "https://news.3m.com/press-releases"
+    },
+    {
+      "label": "REGULATORY",
+      "href": null
+    },
+    {
+      "label": "SDS, RDS, More Regulatory & Compliance Information",
+      "href": "https://www.3m.com/3M/en_US/company-us/SDS-search/"
+    },
+    {
+      "label": "Transport Information Search",
+      "href": "https://www.3m.com/3M/en_US/company-us/transport-information-search/"
+    },
+    {
+      "label": "CPSIA Certification Search",
+      "href": "https://www.3m.com/3M/en_US/company-us/SDS-search/"
+    },
+    {
+      "label": "Lithium Battery UN 38.3 Test Summary Search",
+      "href": "https://www.3m.com/3M/en_US/company-us/lithium-battery-test-summary-report-search/"
+    },
+    {
+      "label": "Batteries and Battery Embedded Products",
+      "href": "https://www.3m.com/3M/en_US/company-us/battery-embedded-products/"
+    },
+    {
+      "label": "Transparency in Supply Chains and Modern Slavery Disclosures",
+      "href": "https://www.3m.com/3M/en_US/suppliers-direct/supplier-requirements/contract-provisions/"
+    },
+    {
+      "label": "US Ingredient Communication",
+      "href": "https://www.3m.com/3M/en_US/company-us/product-ingredients/"
+    },
+    {
+      "label": "Product Recalls",
+      "href": "https://www.3m.com/3M/en_US/consumer-us/consumer-recall/"
+    },
+    {
+      "label": "HELP",
+      "href": null
+    },
+    {
+      "label": "Help Center",
+      "href": "https://www.3m.com/3M/en_US/company-us/help-center/"
+    },
+    {
+      "label": "Site Map",
+      "href": "https://www.3m.com/3M/en_US/company-us/site-map/"
+    },
+    {
+      "label": "Where to Buy",
+      "href": "https://www.3m.com/3M/en_US/company-us/where-to-buy-3m-products/"
+    },
+    {
+      "label": "Report Counterfeit",
+      "href": "https://www.3m.com/3M/en_US/about-3m/3m-verify-counterfeit/#report"
+    },
+    {
+      "label": "Legal",
+      "href": "https://www.3m.com/3M/en_US/company-us/legal-information/"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://www.3m.com/3M/en_US/company-us/privacy-policy/"
+    },
+    {
+      "label": "HIPAA Privacy",
+      "href": "https://www.3m.com/3M/en_US/company-us/hipaa-privacy/"
+    },
+    {
+      "label": "DMCA",
+      "href": "https://www.3m.com/3M/en_US/company-us/dmca-copyright-policy/"
+    },
+    {
+      "label": "Accessibility Statement",
+      "href": "https://www.3m.com/3M/en_US/company-us/accessibility-statement/"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "https://www.3m.com/#"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": "https://www.3m.com/#"
+    }
+  ],
+  "links": [
+    "https://www.3m.com/3M/en_US/company-us/cookie-notice/",
+    "https://www.3m.com/3M/en_US/company-us/privacy-policy/",
+    "https://www.3m.com/3M/en_US/company-us/legal-information/",
+    "https://www.3m.com/#js-gsnMenu",
+    "https://www.3m.com/#ssnMenu",
+    "https://www.3m.com/#pageContent",
+    "https://www.3m.com/#js-searchBar",
+    "https://www.3m.com/#help--links",
+    "https://www.3m.com/3M/en_US/company-us/site-map/",
+    "https://www.3m.com/",
+    "https://www.3m.com/#",
+    "https://www.3m.com/my3M/en_US/company-us/",
+    "https://order.3m.com/store/bComUSSite/en_US/login",
+    "https://www.3m.com/3M/en_US/company-us/our-brands/",
+    "https://www.3m.com/3M/en_US/select-location/",
+    "https://www.3m.com/3M/en_US/p/c/abrasives/",
+    "https://www.3m.com/3M/en_US/p/c/adhesives/",
+    "https://www.3m.com/3M/en_US/p/c/advanced-materials/",
+    "https://www.3m.com/3M/en_US/p/c/automotive-parts-hardware/",
+    "https://www.3m.com/3M/en_US/p/c/building-materials/",
+    "https://www.3m.com/3M/en_US/p/c/cleaning-supplies/",
+    "https://www.3m.com/3M/en_US/p/c/coatings/",
+    "https://www.3m.com/3M/en_US/p/c/compounds-polishes/",
+    "https://www.3m.com/3M/en_US/p/c/electrical/",
+    "https://www.3m.com/3M/en_US/p/c/electronics-components/",
+    "https://www.3m.com/3M/en_US/p/c/films-sheeting/",
+    "https://www.3m.com/3M/en_US/p/c/filtration-separation/",
+    "https://www.3m.com/3M/en_US/p/c/home/",
+    "https://www.3m.com/3M/en_US/p/c/insulation/",
+    "https://www.3m.com/3M/en_US/p/c/lab-supplies-testing/",
+    "https://www.3m.com/3M/en_US/p/c/labels/",
+    "https://www.3m.com/3M/en_US/p/c/lubricants/",
+    "https://www.3m.com/3M/en_US/p/c/medical/",
+    "https://www.3m.com/3M/en_US/p/c/office-supplies/",
+    "https://www.3m.com/3M/en_US/p/c/ppe/",
+    "https://www.3m.com/3M/en_US/p/c/signage-marking/",
+    "https://www.3m.com/3M/en_US/p/c/tapes/",
+    "https://www.3m.com/3M/en_US/p/c/tools-equipment/",
+    "https://www.3m.com/3M/en_US/p/",
+    "https://www.3m.com/3M/en_US/automotive-us/",
+    "https://www.3m.com/3M/en_US/commercial-solutions-us/",
+    "https://www.3m.com/3M/en_US/consumer-us/",
+    "https://www.3m.com/3M/en_US/design-construction-us/",
+    "https://www.3m.com/3M/en_US/electronics-us/",
+    "https://www.3m.com/3M/en_US/energy-us/",
+    "https://www.3m.com/3M/en_US/government-us/",
+    "https://www.3m.com/3M/en_US/manufacturing-us/",
+    "https://www.3m.com/3M/en_US/safety-us/",
+    "https://www.3m.com/3M/en_US/transportation-us/",
+    "https://news.3m.com/The-materials-science-powering-semiconductor-innovation",
+    "https://news.3m.com/13-Year-Old-Raji-Doshi-named-Americas-Top-Young-Scientist-for-inventing-natural-system-to-reduce-CO2-driven-ocean-acidification",
+    "https://news.3m.com/A-note-worthy-cameo-Post-it-R-Brand-featured-in-DreamWorks-Animations-Forgotten-Island",
+    "https://news.3m.com/A-customer-challenge-inspired-the-3M-Adhesive-Mix-Monitor",
+    "https://news.3m.com/From-electronics-to-agriculture-How-3M-film-technology-is-helping-manage-light-in-new-ways",
+    "https://news.3m.com/After-a-tornado,-ScotchBlue-Painters-Tape-became-an-unexpected-sign-of-resilience",
+    "https://news.3m.com/3M-stories",
+    "https://ask.3m.com/?intcid=homepage-aug-26",
+    "https://www.3m.com/#mmmVtabs1",
+    "https://www.3m.com/#mmmVtabs2",
+    "https://www.3m.com/#mmmVtabs3",
+    "https://www.3m.com/#mmmVtabs4",
+    "https://www.3m.com/#mmmVtabs5",
+    "https://www.3m.com/#mmmVtabs6",
+    "https://www.3m.com/#mmmVtabs7",
+    "https://www.3m.com/#mmmVtabs8",
+    "https://www.3m.com/#mmmVtabs9",
+    "https://www.3m.com/#mmmVtabs10",
+    "https://www.3m.com/3M/en_US/auto-care-us/",
+    "https://www.3m.com/3M/en_US/collision-repair-us/",
+    "https://www.3m.com/3M/en_US/automotive-manufacturing-and-assembly-us/",
+    "https://www.3m.com/3M/en_US/oem-tier-us/",
+    "https://www.3m.com/3M/en_US/post-factory-installation-us/",
+    "https://www.3m.com/3M/en_US/architectural-design-us/",
+    "https://www.3m.com/3M/en_US/facility-management-us/",
+    "https://www.3m.com/3M/en_US/food-service-us/",
+    "https://www.3m.com/3M/en_US/graphics-signage-us/",
+    "https://www.3m.com/3M/en_US/visual-attention-software-us/",
+    "https://www.3m.com/3M/en_US/car-personalization-us/",
+    "https://www.3m.com/3M/en_US/cleaning-protecting-us/",
+    "https://www.3m.com/3M/en_US/decorating-organizing-crafts-us/",
+    "https://www.3m.com/3M/en_US/home-improvement-us/",
+    "https://www.3m.com/3M/en_US/office-us/",
+    "https://www.3m.com/3M/en_US/personal-health-care-us/",
+    "https://www.3m.com/3M/en_US/school-supplies-us/",
+    "https://www.3m.com/3M/en_US/sports-recreation-us/",
+    "https://www.3m.com/3M/en_US/building-construction-us/",
+    "https://www.3m.com/3M/en_US/electrical-construction-maintenance-us/",
+    "https://www.3m.com/3M/en_US/infrastructure-us/",
+    "https://www.3m.com/3M/en_US/roofing-granules-us/",
+    "https://www.3m.com/3M/en_US/communications-infrastructure-us/",
+    "https://www.3m.com/3M/en_US/consumer-electronics-us/",
+    "https://www.3m.com/3M/en_US/data-center-us/",
+    "https://www.3m.com/3M/en_US/industrial-manufacturing-us/",
+    "https://www.3m.com/3M/en_US/privacy-screen-protectors-us/",
+    "https://www.3m.com/3M/en_US/semiconductor-us/",
+    "https://www.3m.com/3M/en_US/facility-management-us/solutions/energy-efficiency/",
+    "https://www.3m.com/3M/en_US/electrical-equipment-manufacturing-us/",
+    "https://www.3m.com/3M/en_US/hydrogen-technology-us/",
+    "https://www.3m.com/3M/en_US/oil-and-gas-us/",
+    "https://www.3m.com/3M/en_US/power-distribution-us/",
+    "https://www.3m.com/3M/en_US/power-generation-us/",
+    "https://www.3m.com/3M/en_US/power-transmission-us/",
+    "https://www.3m.com/3M/en_US/defense-markets-us/",
+    "https://www.3m.com/3M/en_US/government-us/clean-energy-future/",
+    "https://www.3m.com/3M/en_US/emergencies-and-disasters-us/",
+    "https://www.3m.com/3M/en_US/road-safety-us/",
+    "https://www.3m.com/3M/en_US/fire-safety-and-first-responders-us/",
+    "https://www.3m.com/3M/en_US/government-us/procurements/",
+    "https://www.3m.com/3M/en_US/appliance-us/",
+    "https://www.3m.com/3M/en_US/bonding-and-assembly-us/",
+    "https://www.3m.com/3M/en_US/converter-solutions-us/",
+    "https://www.3m.com/3M/en_US/industrial-machinery-us/",
+    "https://www.3m.com/3M/en_US/metalworking-us/",
+    "https://www.3m.com/3M/en_US/packaging-shipping-fulfillment-us/",
+    "https://www.3m.com/3M/en_US/paper-and-print-us/",
+    "https://www.3m.com/3M/en_US/woodworking-us/",
+    "https://www.3m.com/3M/en_US/facility-safety-us/",
+    "https://www.3m.com/3M/en_US/worker-health-safety-us/",
+    "https://www.3m.com/3M/en_US/aerospace-us/",
+    "https://www.3m.com/3M/en_US/commercial-specialty-vehicles-us/",
+    "https://www.3m.com/3M/en_US/marine-us/",
+    "https://www.3m.com/3M/en_US/rail-us/",
+    "https://www.3m.com/3M/en_US/vehicle-registration-us/",
+    "https://www.solventum.com/en-us/home/",
+    "https://investors.3m.com/governance/corporate-officers",
+    "https://investors.3m.com/",
+    "https://www.3m.com/3M/en_US/careers-us/",
+    "https://www.3m.com/3M/en_US/about-3m/research-development/",
+    "https://www.3m.com/3M/en_US/sustainability-us/",
+    "https://www.3m.com/3M/en_US/about-3m/people-community/",
+    "https://www.3m.com/3M/en_US/about-3m/history/",
+    "https://www.3m.com/3M/en_US/about-3m/",
+    "https://www.3m.com/3M/en_US/company-us/partners-suppliers/",
+    "https://www.3m.com/3M/en_US/about-3m/ethics-compliance/",
+    "https://news.3m.com/",
+    "https://news.3m.com/press-releases",
+    "https://www.3m.com/3M/en_US/company-us/SDS-search/",
+    "https://www.3m.com/3M/en_US/company-us/transport-information-search/",
+    "https://www.3m.com/3M/en_US/company-us/lithium-battery-test-summary-report-search/",
+    "https://www.3m.com/3M/en_US/company-us/battery-embedded-products/",
+    "https://www.3m.com/3M/en_US/suppliers-direct/supplier-requirements/contract-provisions/",
+    "https://www.3m.com/3M/en_US/company-us/product-ingredients/",
+    "https://www.3m.com/3M/en_US/consumer-us/consumer-recall/",
+    "https://www.3m.com/3M/en_US/company-us/help-center/",
+    "https://www.3m.com/3M/en_US/company-us/where-to-buy-3m-products/",
+    "https://www.3m.com/3M/en_US/about-3m/3m-verify-counterfeit/#report",
+    "https://www.3m.com/3M/en_US/company-us/hipaa-privacy/",
+    "https://www.3m.com/3M/en_US/company-us/dmca-copyright-policy/",
+    "https://www.3m.com/3M/en_US/company-us/accessibility-statement/",
+    "https://www.linkedin.com/company/3m",
+    "https://www.youtube.com/c/3MCorporate",
+    "https://www.facebook.com/3M",
+    "https://www.instagram.com/3m/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
+        "alt": "3M Logo",
+        "w": 159,
+        "h": 28,
+        "localPath": "assets/logo.svg",
+        "resolves": true
+      },
+      {
+        "src": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo_mobile.png",
+        "alt": "3M Logo",
+        "w": 48,
+        "h": 26
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/1812021O/industry-feature-image.png",
+        "alt": "An auto factory worker inspecting car production line.",
+        "w": 330,
+        "h": 281
+      },
+      {
+        "src": "https://news.3m.com/image/U.S.+manufacturing_thumb.jpg",
+        "alt": "The materials science powering semiconductor innovation",
+        "w": 500,
+        "h": 375,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://news.3m.com/image/YSC-Winner-2026-social.png",
+        "alt": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification",
+        "w": 1200,
+        "h": 628,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://news.3m.com/image/GettyImages-2171324207_social.jpg",
+        "alt": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island",
+        "w": 1200,
+        "h": 800,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://news.3m.com/image/v3_For+News+Center+3m-iatd-3m-mix-monitor-photo-img-1034.jpg",
+        "alt": "A customer challenge inspired the 3M Adhesive Mix Monitor",
+        "w": 600,
+        "h": 400,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://news.3m.com/image/hero.jpg",
+        "alt": "From electronics to agriculture: How 3M film technology is helping manage light in new ways",
+        "w": 1024,
+        "h": 768,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://news.3m.com/image/IMG_4167_thumbnail.jpg",
+        "alt": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience",
+        "w": 1200,
+        "h": 675,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526168E/industries-hero-automotive-rgb-jpeg.jpg",
+        "alt": "Photo of a robotic arm with 3M Finesse-it robotic paint repair head polishing a car hood",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526169E/industries-hero-commercial-solutions-rgb-jpeg.jpg",
+        "alt": "Photo of a technician installing 3M energy efficiency film on the windows of a commercial building",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526170E/industries-hero-consumer-markets-rgb-jpeg.jpg",
+        "alt": "Photo of a shopper looking at 3M home care products",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526171E/industries-hero-design-and-construction-rgb-jpeg.jpg",
+        "alt": "Photo of a commercial office space with 3M Fasara film applied to glass walls",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526162E/industries-hero-electronics-rgb-jpeg.jpg",
+        "alt": "Photo of internal components of VR headset with 3M Harp lenses",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526163E/industries-hero-energy-rgb-jpeg.jpg",
+        "alt": "Photo of a gloved hand holding 3M hydrogen iridium catalyst sheet for hydrogen fuel capture",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526164E/industries-hero-government-rgb-jpeg.jpg",
+        "alt": "Photo of a person overlooking the Lincoln Memorial landscape in Washington D.C.",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526165E/industries-hero-manufacturing-rgb-jpeg.jpg",
+        "alt": "Photo of a technician sanding surface with 3M Xtract sander and personal protective equipment",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526166E/industries-hero-safety-rgb-jpeg.jpg",
+        "alt": "Photo of an industrial worker wearing 3M personal protective equipment",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2526167E/industries-hero-transportation-rgb-jpeg.jpg",
+        "alt": "Photo of a commercial airplane parked on an airport tarmac",
+        "w": 1500,
+        "h": 563,
+        "localPath": null,
+        "resolves": false
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525956E/about-us-icons-leadership.svg",
+        "alt": "Go to 3m.com investor relations governance page - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525955E/about-us-icons-investors.svg",
+        "alt": "Go to 3m.com investor relations website - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525952E/about-us-icons-careers.svg",
+        "alt": "Go to 3m.com careers page - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525958E/about-us-icons-technology.svg",
+        "alt": "Go to 3m.com technology platforms page - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525957E/about-us-icons-sustainability.svg",
+        "alt": "Go to 3m.com sustainability page - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525953E/about-us-icons-equity.svg",
+        "alt": "Go to 3m.com people and community website - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://multimedia.3m.com/mws/media/2525954E/about-us-icons-history.svg",
+        "alt": "Go to 3m.com history page - Icon",
+        "w": 96,
+        "h": 96
+      },
+      {
+        "src": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo_mobile.png",
+        "alt": "3M Logo",
+        "w": 48,
+        "h": 26
+      }
+    ],
+    "allImgCount": 27,
+    "cssBackgrounds": [
+      "https://multimedia.3m.com/mws/media/2815912O/ask-3m-design-engineer-golf.png",
+      "https://multimedia.3m.com/mws/media/2525951Z/about-us-background.jpg"
+    ],
+    "modals": [
+      "By using this website, you accept 3M’s Cookie Notice, Global Privacy Statement and Terms of Use. 3M uses cookies and similar technologies to ensure the proper functioning of our website, analyze usage, personalize content, assess the effectiveness of advertisements, and provide features from third parties. We use essential cookies to operate this website. Where applicable, we also use Business Insights cookies to help us identify the organization associated with your visit, understand interests and engagement with our site, and estimate your organization’s interest in our products. Other non-essential cookies will not be used unless you consent to them. You can select “Consent to All Non-Essential Cookies” to allow all cookie categories, select “Reject Non-Essential Cookies” to reject non-essential cookies, or choose “Cookie Preferences” to review and change your choices, including Business Insights, at any time. Consent to All Non-Essential CookiesReject Non-Essential CookiesCookie Preferences Icon Cookie Preferences",
+      "3M in the United States English - EN Change 3M Location Save"
+    ],
+    "videos": [
+      {
+        "src": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+        "poster": null,
+        "autoplay": true,
+        "loop": true,
+        "muted": true
+      }
+    ],
+    "iframes": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 13,
+    "mainTextLen": 63093,
+    "realImageCount": 27,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "screenshot": "assets/screenshots/index.png",
+  "renderedHtml": "pages/index.html",
+  "styles": [
+    {
+      "selector": "body.MMM--bodyContain.MMM--body_1440",
+      "tag": "body",
+      "text": "Go to US Navigation\nGo to 3M United States Navigation\nGo to Page Content\nGo to Search\nGo to Contact Information\nGo to Site Map\n Account \nUS - EN  \nProducts\nIndustries\nBrands\nWhat the world needs next, we are making now.\nWhat’s new\n\nOctober 29, 2026\n\nThe materials science powering semiconductor innovation\n\nAI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...\n\nOctober 14, 2026\n\n13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification\n\n3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...\n\nOctober 5, 2026\n\nA note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island\n\nAn iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...\n\nSeptember 22, 2026\n\nA customer challenge inspired the 3M Adhesive Mix Monitor\n\nNew products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...\n\nSeptember 15, 2026\n\nFrom electronics to agriculture: How 3M film technology is helping manage light in new ways\n\nFor decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...\n\nSeptember 8, 2026\n\nAfter a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience\n\nAfter a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...\n\nOur news feed is currently unavailable. Visit the 3M News Center for the latest news.\n\nFrom challenge to solution, in one conversation.\n\nMeet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes.\n\nTry Ask 3M\nWhat we do\nAutomotive\nCommercial Solutions\nConsumer\nDesign & Construction\nElectronics\nEnergy\nGovernment\nManufacturing\nSafety\nTransportation\nAccelerating solutions to the industry’s toughest challenges\n\nOur solutions help manufacture, maintain, or advance nearly every vehicle in the world. So, when we apply our diverse portfolio of technologies and 100-plus years of expertise to customer challenges, we can advance efficiency, performance, longevity, and safety for the entire industry.\n\nAuto Care\nCollision Repair\nManufacturing & Assembly\nOEM & Tier\nPost-Factory Installation\n\n3M Healthcare is now Solventum.\n\nWho we are\nPeople. Ideas. Science. Reimagining what's possible.\nLeadership\n \nInvestment\n \nCareers\n \nResearch and Development\n \nSustainability\n \nPeople and Community\n \nHistory\nOUR COMPANY\nAbout 3M\n3M Careers\nInvestor Relations\nCustomers and Suppliers\nSustainability\nPeople and Community\nEthics & Compliance\nNEWS\nNews Center\nPress Releases\nREGULATORY\nSDS, RDS, More Regulatory & Compliance Information\nTransport Information Search\nCPSIA Certification Search\nLithium Battery UN 38.3 Test Summary Search\nBatteries and Battery Embedded Products\nTransparency in Supply Chains and Modern Slavery Disclosures\nUS Ingredient Communication\nProduct Recalls\nHELP\nHelp Center\nSite Map\nWhere to Buy\nReport Counterfeit\nLegal\n|\nPrivacy\n|\nHIPAA Privacy\n|\nDMCA\n|\nAccessibility Statement\n|\nYour Privacy Choices\n|\nCookie Preferences\n© 3M 2026. All Rights Reserved.\nFOLLOW US\nThe brands listed above are trademarks of 3M.",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Go to US Navigation",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Go to 3M United States Navigation",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Go to Page Content",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Go to Search",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Go to Contact Information",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Go to Site Map",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "nav.m-nav",
+      "tag": "nav",
+      "text": "Account \nUS - EN  \nProducts\nIndustries\nBrands",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "1px"
+    },
+    {
+      "selector": "a.is-3MLogo.m-header_logo.l-smallMarginRight.h-linkNoUnderline.l-centerVertically",
+      "tag": "a",
+      "text": "",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "14px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "button.m-header_searchbutton",
+      "tag": "button",
+      "text": "",
+      "color": "rgba(16, 16, 16, 0.3)",
+      "backgroundColor": "rgb(75, 75, 75)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px 20px 20px 0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-btn.m-btn--free.font--size.m-navbar_loginBtn.m-navbar_signInBtn.link--dark.is-signInToggle.is-header_madDesktopSI",
+      "tag": "a",
+      "text": "Account",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "2px",
+      "boxShadow": "none",
+      "paddingTop": "10px",
+      "paddingBottom": "10px"
+    },
+    {
+      "selector": "a.link--dark.l-centerVertically.is-localeToggle",
+      "tag": "a",
+      "text": "US - EN",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "12px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "#navbar_link-products",
+      "tag": "a",
+      "text": "Products",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "2px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "#navbar_link-industries",
+      "tag": "a",
+      "text": "Industries",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "2px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.m-navbar_link",
+      "tag": "a",
+      "text": "Brands",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "2px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "div.section",
+      "tag": "div",
+      "text": "What the world needs next, we are making now.",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h1.mds-font_hero--text",
+      "tag": "h1",
+      "text": "What the world needs next, we are making now.",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "42px",
+      "fontWeight": "700",
+      "lineHeight": "50px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "div.section",
+      "tag": "div",
+      "text": "What’s new\n\nOctober 29, 2026\n\nThe materials science powering semiconductor innovation\n\nAI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...\n\nOctober 14, 2026\n\n13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification\n\n3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...\n\nOctober 5, 2026\n\nA note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island\n\nAn iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...\n\nSeptember 22, 2026\n\nA customer challenge inspired the 3M Adhesive Mix Monitor\n\nNew products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...\n\nSeptember 15, 2026\n\nFrom electronics to agriculture: How 3M film technology is helping manage light in new ways\n\nFor decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...\n\nSeptember 8, 2026\n\nAfter a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience\n\nAfter a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...\n\nOur news feed is currently unavailable. Visit the 3M News Center for the latest news.",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h2.mds-content-cards_title.mds-font_hero--text",
+      "tag": "h2",
+      "text": "What’s new",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "42px",
+      "fontWeight": "700",
+      "lineHeight": "50px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "25px"
+    },
+    {
+      "selector": "a.js-focusVisible",
+      "tag": "a",
+      "text": "October 29, 2026\n\nThe materials science powering semiconductor innovation\n\nAI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_body",
+      "tag": "p",
+      "text": "October 29, 2026",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--5",
+      "tag": "h3",
+      "text": "The materials science powering semiconductor innovation",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.",
+      "tag": "p",
+      "text": "AI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-focusVisible",
+      "tag": "a",
+      "text": "October 14, 2026\n\n13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification\n\n3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_body",
+      "tag": "p",
+      "text": "October 14, 2026",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--5",
+      "tag": "h3",
+      "text": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.",
+      "tag": "p",
+      "text": "3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-focusVisible",
+      "tag": "a",
+      "text": "October 5, 2026\n\nA note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island\n\nAn iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_body",
+      "tag": "p",
+      "text": "October 5, 2026",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--5",
+      "tag": "h3",
+      "text": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.",
+      "tag": "p",
+      "text": "An iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-focusVisible",
+      "tag": "a",
+      "text": "September 22, 2026\n\nA customer challenge inspired the 3M Adhesive Mix Monitor\n\nNew products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_body",
+      "tag": "p",
+      "text": "September 22, 2026",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--5",
+      "tag": "h3",
+      "text": "A customer challenge inspired the 3M Adhesive Mix Monitor",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.",
+      "tag": "p",
+      "text": "New products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-focusVisible",
+      "tag": "a",
+      "text": "September 15, 2026\n\nFrom electronics to agriculture: How 3M film technology is helping manage light in new ways\n\nFor decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_body",
+      "tag": "p",
+      "text": "September 15, 2026",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--5",
+      "tag": "h3",
+      "text": "From electronics to agriculture: How 3M film technology is helping manage light in new ways",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.",
+      "tag": "p",
+      "text": "For decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-focusVisible",
+      "tag": "a",
+      "text": "September 8, 2026\n\nAfter a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience\n\nAfter a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_body",
+      "tag": "p",
+      "text": "September 8, 2026",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--5",
+      "tag": "h3",
+      "text": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.",
+      "tag": "p",
+      "text": "After a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_intro--1.js-newsFeedSection-error.MMM--isVisuallyHidden",
+      "tag": "p",
+      "text": "Our news feed is currently unavailable. Visit the 3M News Center for the latest news.",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "20px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "3M News Center",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "div.section.mds-heroBanner--light",
+      "tag": "div",
+      "text": "From challenge to solution, in one conversation.\n\nMeet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes.\n\nTry Ask 3M",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h2.mds-heroBanner_title.mds-font_header--2a",
+      "tag": "h2",
+      "text": "From challenge to solution, in one conversation.",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "700",
+      "lineHeight": "44px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-heroBanner_content.mds-font_paragraph.MMM--gapTop.MMM--gapBottom",
+      "tag": "p",
+      "text": "Meet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes.",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "button.mds-button.mds-button_primary.mds-button_primary--large",
+      "tag": "button",
+      "text": "Try Ask 3M",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(209, 4, 17)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "2px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.",
+      "tag": "a",
+      "text": "Try Ask 3M",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h2.MMM--hdg.MMM--hdg_2.mix-MMM--hdg_spaced",
+      "tag": "h2",
+      "text": "What we do",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "42px",
+      "fontWeight": "700",
+      "lineHeight": "50px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related.MMM--isActive",
+      "tag": "a",
+      "text": "Automotive",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(209, 4, 17)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Commercial Solutions",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Consumer",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Design & Construction",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Electronics",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Energy",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Government",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Manufacturing",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Safety",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "a.js-contentToggle-trigger_related",
+      "tag": "a",
+      "text": "Transportation",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "15px",
+      "paddingBottom": "15px"
+    },
+    {
+      "selector": "h3.mds-content-cards_title.mds-font_header--4",
+      "tag": "h3",
+      "text": "Accelerating solutions to the industry’s toughest challenges",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "22px",
+      "fontWeight": "700",
+      "lineHeight": "30px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-margin_large--top.mds-margin_large--bottom.mds-font_paragraph",
+      "tag": "p",
+      "text": "Our solutions help manufacture, maintain, or advance nearly every vehicle in the world. So, when we apply our diverse portfolio of technologies and 100-plus years of expertise to customer challenges, we can advance efficiency, performance, longevity, and safety for the entire industry.",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Auto Care",
+      "color": "rgb(209, 4, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Collision Repair",
+      "color": "rgb(209, 4, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Manufacturing & Assembly",
+      "color": "rgb(209, 4, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "OEM & Tier",
+      "color": "rgb(209, 4, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Post-Factory Installation",
+      "color": "rgb(209, 4, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "p.mds-font_paragraph.js-vtabsHealthCare",
+      "tag": "p",
+      "text": "3M Healthcare is now Solventum.",
+      "color": "rgb(32, 32, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "20px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Solventum",
+      "color": "rgb(209, 4, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h2.mds-content-cards_title.mds-font_hero--text",
+      "tag": "h2",
+      "text": "Who we are",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "42px",
+      "fontWeight": "700",
+      "lineHeight": "70px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "h3.mds-font_header--1",
+      "tag": "h3",
+      "text": "People. Ideas. Science. Reimagining what's possible.",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "36px",
+      "fontWeight": "700",
+      "lineHeight": "45px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Leadership",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Investment",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Careers",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Research and Development",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "Sustainability",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "People and Community",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.mds-link",
+      "tag": "a",
+      "text": "History",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "18px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "#about_ftr",
+      "tag": "a",
+      "text": "OUR COMPANY",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "200",
+      "lineHeight": "17.5px",
+      "letterSpacing": "2px",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "About 3M",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "3M Careers",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Investor Relations",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Customers and Suppliers",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Sustainability",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "People and Community",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Ethics & Compliance",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "#news_ftr",
+      "tag": "a",
+      "text": "NEWS",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "200",
+      "lineHeight": "17.5px",
+      "letterSpacing": "2px",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "News Center",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Press Releases",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "#reg_ftr",
+      "tag": "a",
+      "text": "REGULATORY",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "200",
+      "lineHeight": "17.5px",
+      "letterSpacing": "2px",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "SDS, RDS, More Regulatory & Compliance Information",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Transport Information Search",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "CPSIA Certification Search",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Lithium Battery UN 38.3 Test Summary Search",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Batteries and Battery Embedded Products",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Transparency in Supply Chains and Modern Slavery Disclosures",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "US Ingredient Communication",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Product Recalls",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "#help",
+      "tag": "a",
+      "text": "HELP",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "200",
+      "lineHeight": "17.5px",
+      "letterSpacing": "2px",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Help Center",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Site Map",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Where to Buy",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.link--dark",
+      "tag": "a",
+      "text": "Report Counterfeit",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "200",
+      "lineHeight": "16px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.h-linkNoUnderline",
+      "tag": "a",
+      "text": "",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "200",
+      "lineHeight": "17.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer_legalLink",
+      "tag": "a",
+      "text": "Legal",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer_legalLink",
+      "tag": "a",
+      "text": "Privacy",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer_legalLink",
+      "tag": "a",
+      "text": "HIPAA Privacy",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer_legalLink",
+      "tag": "a",
+      "text": "DMCA",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer_legalLink",
+      "tag": "a",
+      "text": "Accessibility Statement",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-privacyChoice.MMM--icn_privacy.m-footer_legalLink",
+      "tag": "a",
+      "text": "Your Privacy Choices",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.js-gdprPrefs.m-footer_legalLink",
+      "tag": "a",
+      "text": "Cookie Preferences",
+      "color": "rgb(75, 75, 75)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MCircular\", Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "200",
+      "lineHeight": "15px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer-socialIcn",
+      "tag": "a",
+      "text": "",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MThemeIconFont\"",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "lineHeight": "37.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer-socialIcn",
+      "tag": "a",
+      "text": "",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MThemeIconFont\"",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "lineHeight": "37.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer-socialIcn",
+      "tag": "a",
+      "text": "",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MThemeIconFont\"",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "lineHeight": "37.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    },
+    {
+      "selector": "a.m-footer-socialIcn",
+      "tag": "a",
+      "text": "",
+      "color": "rgb(0, 51, 204)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"3MThemeIconFont\"",
+      "fontSize": "30px",
+      "fontWeight": "400",
+      "lineHeight": "37.5px",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "paddingTop": "0px",
+      "paddingBottom": "0px"
+    }
+  ],
+  "industries": [
+    {
+      "id": "mmmVtabs1",
+      "heading": "Accelerating solutions to the industry’s toughest challenges",
+      "text": "Our solutions help manufacture, maintain, or advance nearly every vehicle in the world. So, when we apply our diverse portfolio of technologies and 100-plus years of expertise to customer challenges, we can advance efficiency, performance, longevity, and safety for the entire industry.",
+      "image": "https://multimedia.3m.com/mws/media/2526168E/industries-hero-automotive-rgb-jpeg.jpg",
+      "alt": "Photo of a robotic arm with 3M Finesse-it robotic paint repair head polishing a car hood",
+      "links": [
+        {
+          "text": "Auto Care",
+          "href": "https://www.3m.com/3M/en_US/auto-care-us/"
+        },
+        {
+          "text": "Collision Repair",
+          "href": "https://www.3m.com/3M/en_US/collision-repair-us/"
+        },
+        {
+          "text": "Manufacturing & Assembly",
+          "href": "https://www.3m.com/3M/en_US/automotive-manufacturing-and-assembly-us/"
+        },
+        {
+          "text": "OEM & Tier",
+          "href": "https://www.3m.com/3M/en_US/oem-tier-us/"
+        },
+        {
+          "text": "Post-Factory Installation",
+          "href": "https://www.3m.com/3M/en_US/post-factory-installation-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs2",
+      "heading": "Making your brand, people, and facility shine",
+      "text": "No matter where your company shows up, or where its work gets done, 3M solutions are here to make a difference. From cleaning and safety supplies to eye-catching graphic and architectural films, we aim to enhance your brand experience.",
+      "image": "https://multimedia.3m.com/mws/media/2526169E/industries-hero-commercial-solutions-rgb-jpeg.jpg",
+      "alt": "Photo of a technician installing 3M energy efficiency film on the windows of a commercial building",
+      "links": [
+        {
+          "text": "Automotive Post-Factory",
+          "href": "https://www.3m.com/3M/en_US/post-factory-installation-us/"
+        },
+        {
+          "text": "Architectural Design",
+          "href": "https://www.3m.com/3M/en_US/architectural-design-us/"
+        },
+        {
+          "text": "Facility Management",
+          "href": "https://www.3m.com/3M/en_US/facility-management-us/"
+        },
+        {
+          "text": "Food Service",
+          "href": "https://www.3m.com/3M/en_US/food-service-us/"
+        },
+        {
+          "text": "Graphics & Signage",
+          "href": "https://www.3m.com/3M/en_US/graphics-signage-us/"
+        },
+        {
+          "text": "Visual Attention Software (VAS)",
+          "href": "https://www.3m.com/3M/en_US/visual-attention-software-us/"
+        },
+        {
+          "text": "Window Films",
+          "href": "https://www.3m.com/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs3",
+      "heading": "Reinventing the everyday to make a world of difference",
+      "text": "Whether you’re at home, at work, or on the go, our solutions help tackle your to-dos. From bandages and sandpaper to décor and cleaning, we’ve spent more than 100 years making what you need to get the job done.",
+      "image": "https://multimedia.3m.com/mws/media/2526170E/industries-hero-consumer-markets-rgb-jpeg.jpg",
+      "alt": "Photo of a shopper looking at 3M home care products",
+      "links": [
+        {
+          "text": "Auto Care",
+          "href": "https://www.3m.com/3M/en_US/auto-care-us/"
+        },
+        {
+          "text": "Car Personalization",
+          "href": "https://www.3m.com/3M/en_US/car-personalization-us/"
+        },
+        {
+          "text": "Cleaning & Protecting",
+          "href": "https://www.3m.com/3M/en_US/cleaning-protecting-us/"
+        },
+        {
+          "text": "Decorating, Organizing & Crafts",
+          "href": "https://www.3m.com/3M/en_US/decorating-organizing-crafts-us/"
+        },
+        {
+          "text": "Home Improvement",
+          "href": "https://www.3m.com/3M/en_US/home-improvement-us/"
+        },
+        {
+          "text": "Office",
+          "href": "https://www.3m.com/3M/en_US/office-us/"
+        },
+        {
+          "text": "Personal Health Care",
+          "href": "https://www.3m.com/3M/en_US/personal-health-care-us/"
+        },
+        {
+          "text": "School Supplies",
+          "href": "https://www.3m.com/3M/en_US/school-supplies-us/"
+        },
+        {
+          "text": "Sports & Recreation",
+          "href": "https://www.3m.com/3M/en_US/sports-recreation-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs4",
+      "heading": "Expanding what’s possible through form and function",
+      "text": "Bold ideas. Aesthetics. Efficiency. These are the tasks architects, designers, and construction companies take on every day. 3M is here to help. From state-of-the-art window films and roofing materials to ultra-strong adhesives and proven electrical solutions, our careful craftsmanship delivers the consistent and transformative results you strive for.",
+      "image": "https://multimedia.3m.com/mws/media/2526171E/industries-hero-design-and-construction-rgb-jpeg.jpg",
+      "alt": "Photo of a commercial office space with 3M Fasara film applied to glass walls",
+      "links": [
+        {
+          "text": "Architectural Design",
+          "href": "https://www.3m.com/3M/en_US/architectural-design-us/"
+        },
+        {
+          "text": "Building & Construction",
+          "href": "https://www.3m.com/3M/en_US/building-construction-us/"
+        },
+        {
+          "text": "Electrical",
+          "href": "https://www.3m.com/3M/en_US/electrical-construction-maintenance-us/"
+        },
+        {
+          "text": "Home Improvement",
+          "href": "https://www.3m.com/3M/en_US/home-improvement-us/"
+        },
+        {
+          "text": "Infrastructure",
+          "href": "https://www.3m.com/3M/en_US/infrastructure-us/"
+        },
+        {
+          "text": "Roofing Granules",
+          "href": "https://www.3m.com/3M/en_US/roofing-granules-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs5",
+      "heading": "Building technology to power the tools of tomorrow",
+      "text": "Our advanced solutions are helping companies deliver more robust mobile devices, more stable and efficient networks, and brighter, clearer displays. By consistently innovating and combining technologies, we are enabling a faster, more connected future.",
+      "image": "https://multimedia.3m.com/mws/media/2526162E/industries-hero-electronics-rgb-jpeg.jpg",
+      "alt": "Photo of internal components of VR headset with 3M Harp lenses",
+      "links": [
+        {
+          "text": "Communications Infrastructure",
+          "href": "https://www.3m.com/3M/en_US/communications-infrastructure-us/"
+        },
+        {
+          "text": "Consumer Electronics",
+          "href": "https://www.3m.com/3M/en_US/consumer-electronics-us/"
+        },
+        {
+          "text": "Data Center",
+          "href": "https://www.3m.com/3M/en_US/data-center-us/"
+        },
+        {
+          "text": "Industrial & Manufacturing",
+          "href": "https://www.3m.com/3M/en_US/industrial-manufacturing-us/"
+        },
+        {
+          "text": "Privacy & Screen Protectors",
+          "href": "https://www.3m.com/3M/en_US/privacy-screen-protectors-us/"
+        },
+        {
+          "text": "Semiconductor",
+          "href": "https://www.3m.com/3M/en_US/semiconductor-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs6",
+      "heading": "Sparking the transformation of global energy systems",
+      "text": "We’re reimagining the future of energy and optimizing electrical infrastructure for a brighter tomorrow. Through continuous innovation, we can improve existing solutions and develop new approaches that enhance and sustain daily life",
+      "image": "https://multimedia.3m.com/mws/media/2526163E/industries-hero-energy-rgb-jpeg.jpg",
+      "alt": "Photo of a gloved hand holding 3M hydrogen iridium catalyst sheet for hydrogen fuel capture",
+      "links": [
+        {
+          "text": "Electrical Construction & Maintenance",
+          "href": "https://www.3m.com/3M/en_US/electrical-construction-maintenance-us/"
+        },
+        {
+          "text": "Energy Conservation",
+          "href": "https://www.3m.com/3M/en_US/facility-management-us/solutions/energy-efficiency/"
+        },
+        {
+          "text": "Electrical OEM",
+          "href": "https://www.3m.com/3M/en_US/electrical-equipment-manufacturing-us/"
+        },
+        {
+          "text": "Hydrogen Technology",
+          "href": "https://www.3m.com/3M/en_US/hydrogen-technology-us/"
+        },
+        {
+          "text": "Oil & Gas",
+          "href": "https://www.3m.com/3M/en_US/oil-and-gas-us/"
+        },
+        {
+          "text": "Power Distribution",
+          "href": "https://www.3m.com/3M/en_US/power-distribution-us/"
+        },
+        {
+          "text": "Power Generation",
+          "href": "https://www.3m.com/3M/en_US/power-generation-us/"
+        },
+        {
+          "text": "Power Transmission",
+          "href": "https://www.3m.com/3M/en_US/power-transmission-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs7",
+      "heading": "A world of capability in service of your communities",
+      "text": "As a global enterprise, we have a long-established understanding of federal, state, and local government needs. By drawing on our vast resources, technology platforms, and differentiated expertise, we create effective solutions for the most pressing challenges and provide unparalleled support for priority initiatives.",
+      "image": "https://multimedia.3m.com/mws/media/2526164E/industries-hero-government-rgb-jpeg.jpg",
+      "alt": "Photo of a person overlooking the Lincoln Memorial landscape in Washington D.C.",
+      "links": [
+        {
+          "text": "Defense",
+          "href": "https://www.3m.com/3M/en_US/defense-markets-us/"
+        },
+        {
+          "text": "Clean Energy Future",
+          "href": "https://www.3m.com/3M/en_US/government-us/clean-energy-future/"
+        },
+        {
+          "text": "Emergency Management",
+          "href": "https://www.3m.com/3M/en_US/emergencies-and-disasters-us/"
+        },
+        {
+          "text": "Construction",
+          "href": "https://www.3m.com/3M/en_US/building-construction-us/"
+        },
+        {
+          "text": "Transportation",
+          "href": "https://www.3m.com/3M/en_US/road-safety-us/"
+        },
+        {
+          "text": "Facilities",
+          "href": "https://www.3m.com/3M/en_US/facility-management-us/"
+        },
+        {
+          "text": "Public Safety",
+          "href": "https://www.3m.com/3M/en_US/fire-safety-and-first-responders-us/"
+        },
+        {
+          "text": "3M Government Procurement",
+          "href": "https://www.3m.com/3M/en_US/government-us/procurements/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs8",
+      "heading": "Making the complex world of manufacturing run smoothly",
+      "text": "When it comes to fabricating, assembling or processing anything around the world, 3M knows efficiency is key. For you, for your team, and for your bottom line. From ultra-strong abrasives that keep processes running seamlessly, to futuristic materials that literally lighten your workload, and so much more, innovative 3M solutions help you create what’s next.",
+      "image": "https://multimedia.3m.com/mws/media/2526165E/industries-hero-manufacturing-rgb-jpeg.jpg",
+      "alt": "Photo of a technician sanding surface with 3M Xtract sander and personal protective equipment",
+      "links": [
+        {
+          "text": "Appliance",
+          "href": "https://www.3m.com/3M/en_US/appliance-us/"
+        },
+        {
+          "text": "Bonding & Assembly",
+          "href": "https://www.3m.com/3M/en_US/bonding-and-assembly-us/"
+        },
+        {
+          "text": "Converter Solutions",
+          "href": "https://www.3m.com/3M/en_US/converter-solutions-us/"
+        },
+        {
+          "text": "Defense",
+          "href": "https://www.3m.com/3M/en_US/defense-markets-us/"
+        },
+        {
+          "text": "Industrial Machinery",
+          "href": "https://www.3m.com/3M/en_US/industrial-machinery-us/"
+        },
+        {
+          "text": "Metalworking",
+          "href": "https://www.3m.com/3M/en_US/metalworking-us/"
+        },
+        {
+          "text": "Packaging, Shipping & Fulfillment",
+          "href": "https://www.3m.com/3M/en_US/packaging-shipping-fulfillment-us/"
+        },
+        {
+          "text": "Paper & Print",
+          "href": "https://www.3m.com/3M/en_US/paper-and-print-us/"
+        },
+        {
+          "text": "Woodworking",
+          "href": "https://www.3m.com/3M/en_US/woodworking-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs9",
+      "heading": "Advancing safe and sound through science",
+      "text": "We create safety solutions that help protect people and control their environments across industries. From personal protective equipment to infrastructure improvements, our technologies help ensure safety in a changing world and allow you to focus on your work with confidence.",
+      "image": "https://multimedia.3m.com/mws/media/2526166E/industries-hero-safety-rgb-jpeg.jpg",
+      "alt": "Photo of an industrial worker wearing 3M personal protective equipment",
+      "links": [
+        {
+          "text": "Facility Safety",
+          "href": "https://www.3m.com/3M/en_US/facility-safety-us/"
+        },
+        {
+          "text": "Road Safety",
+          "href": "https://www.3m.com/3M/en_US/road-safety-us/"
+        },
+        {
+          "text": "Worker Health & Safety",
+          "href": "https://www.3m.com/3M/en_US/worker-health-safety-us/"
+        }
+      ]
+    },
+    {
+      "id": "mmmVtabs10",
+      "heading": "Helping the world move safely and efficiently",
+      "text": "Our science is propelling the transportation industry forward with safer, faster, and lighter technologies across the seas, sky, and land. With solutions that can scale from cargo ships to scooters, we can help all manufacturers, transporters, and travelers achieve their goals.",
+      "image": "https://multimedia.3m.com/mws/media/2526167E/industries-hero-transportation-rgb-jpeg.jpg",
+      "alt": "Photo of a commercial airplane parked on an airport tarmac",
+      "links": [
+        {
+          "text": "Aerospace",
+          "href": "https://www.3m.com/3M/en_US/aerospace-us/"
+        },
+        {
+          "text": "Commercial & Specialty Vehicles",
+          "href": "https://www.3m.com/3M/en_US/commercial-specialty-vehicles-us/"
+        },
+        {
+          "text": "Marine",
+          "href": "https://www.3m.com/3M/en_US/marine-us/"
+        },
+        {
+          "text": "Rail",
+          "href": "https://www.3m.com/3M/en_US/rail-us/"
+        },
+        {
+          "text": "Road Safety",
+          "href": "https://www.3m.com/3M/en_US/road-safety-us/"
+        },
+        {
+          "text": "Vehicle Registration",
+          "href": "https://www.3m.com/3M/en_US/vehicle-registration-us/"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "The materials science powering semiconductor innovation",
+      "date": "October 29, 2026",
+      "summary": "AI runs on more than software. Every model ultimately depends on physical infrastructure, including advanced semiconductor chips manufactured on silic...",
+      "href": "https://news.3m.com/The-materials-science-powering-semiconductor-innovation",
+      "image": "https://news.3m.com/image/U.S.+manufacturing_thumb.jpg"
+    },
+    {
+      "title": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification",
+      "date": "October 14, 2026",
+      "summary": "3M and Discovery Education named 8th grader Raji Doshi as the winner of the 2026 3M Young Scientist Challenge, the nation’s premier middle school scie...",
+      "href": "https://news.3m.com/13-Year-Old-Raji-Doshi-named-Americas-Top-Young-Scientist-for-inventing-natural-system-to-reduce-CO2-driven-ocean-acidification",
+      "image": "https://news.3m.com/image/YSC-Winner-2026-social.png"
+    },
+    {
+      "title": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island",
+      "date": "October 5, 2026",
+      "summary": "An iconic 3M brand has a special role in DreamWorks Animation’s new original film, Forgotten Island. Classic Canary Yellow Post-it® Notes appear throu...",
+      "href": "https://news.3m.com/A-note-worthy-cameo-Post-it-R-Brand-featured-in-DreamWorks-Animations-Forgotten-Island",
+      "image": "https://news.3m.com/image/GettyImages-2171324207_social.jpg"
+    },
+    {
+      "title": "A customer challenge inspired the 3M Adhesive Mix Monitor",
+      "date": "September 22, 2026",
+      "summary": "New products can come from anywhere – formal meetings, lab discoveries, customer conversations, or even running into a colleague in the hallway. The n...",
+      "href": "https://news.3m.com/A-customer-challenge-inspired-the-3M-Adhesive-Mix-Monitor",
+      "image": "https://news.3m.com/image/v3_For+News+Center+3m-iatd-3m-mix-monitor-photo-img-1034.jpg"
+    },
+    {
+      "title": "From electronics to agriculture: How 3M film technology is helping manage light in new ways",
+      "date": "September 15, 2026",
+      "summary": "For decades, 3M has applied optical film technology to help manage light in precise and useful ways, including in electronic devices and displays wher...",
+      "href": "https://news.3m.com/From-electronics-to-agriculture-How-3M-film-technology-is-helping-manage-light-in-new-ways",
+      "image": "https://news.3m.com/image/hero.jpg"
+    },
+    {
+      "title": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience",
+      "date": "September 8, 2026",
+      "summary": "After a tornado struck Meridian Elementary School in Blue Mound, Illinois, the school community faced significant property damage, including roof loss...",
+      "href": "https://news.3m.com/After-a-tornado,-ScotchBlue-Painters-Tape-became-an-unexpected-sign-of-resilience",
+      "image": "https://news.3m.com/image/IMG_4167_thumbnail.jpg"
+    }
+  ],
+  "heroHeadline": "What the world needs next, we are making now.",
+  "heroVideo": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+  "logoUrl": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
+  "forms": [
+    {
+      "action": "https://www.3m.com/3M/en_US/p/",
+      "fields": [
+        {
+          "name": "Ntt",
+          "type": "search",
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "action": "https://www.3m.com/",
+      "fields": [
+        {
+          "name": "locale",
+          "type": "radio",
+          "label": null
+        }
+      ]
+    }
+  ],
+  "footer": [],
+  "assets": [
+    {
+      "url": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.svg",
+      "file": "assets/logo.svg",
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+      "file": "assets/media/hero.mp4",
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://news.3m.com/image/U.S.+manufacturing_thumb.jpg",
+      "file": "assets/media/news-1.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "curl"
+    },
+    {
+      "url": "https://news.3m.com/image/YSC-Winner-2026-social.png",
+      "file": "assets/media/news-2.png",
+      "status": 200,
+      "error": null,
+      "technique": "curl"
+    },
+    {
+      "url": "https://news.3m.com/image/GettyImages-2171324207_social.jpg",
+      "file": "assets/media/news-3.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "curl"
+    },
+    {
+      "url": "https://news.3m.com/image/v3_For+News+Center+3m-iatd-3m-mix-monitor-photo-img-1034.jpg",
+      "file": "assets/media/news-4.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "curl"
+    },
+    {
+      "url": "https://news.3m.com/image/hero.jpg",
+      "file": "assets/media/news-5.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "curl"
+    },
+    {
+      "url": "https://news.3m.com/image/IMG_4167_thumbnail.jpg",
+      "file": "assets/media/news-6.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "curl"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526168E/industries-hero-automotive-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs1.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526169E/industries-hero-commercial-solutions-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs2.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526170E/industries-hero-consumer-markets-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs3.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526171E/industries-hero-design-and-construction-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs4.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526162E/industries-hero-electronics-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs5.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526163E/industries-hero-energy-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs6.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526164E/industries-hero-government-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs7.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526165E/industries-hero-manufacturing-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs8.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526166E/industries-hero-safety-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs9.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2526167E/industries-hero-transportation-rgb-jpeg.jpg",
+      "file": "assets/media/mmmVtabs10.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2815912O/ask-3m-design-engineer-golf.png",
+      "file": "assets/media/ask-3m.png",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    },
+    {
+      "url": "https://multimedia.3m.com/mws/media/2525951Z/about-us-background.jpg",
+      "file": "assets/media/about-texture.jpg",
+      "status": 200,
+      "error": null,
+      "technique": "browser-response"
+    }
+  ],
+  "fonts": [
+    {
+      "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Book..woff",
+      "file": "assets/fonts/3MCircularWeb-Book..woff",
+      "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+    },
+    {
+      "url": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/fonts/3MThemeIconFont/fonts/3MThemeIconFont.woff?i2w8ja",
+      "file": "assets/fonts/3MThemeIconFont.woff",
+      "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+    },
+    {
+      "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Bold..woff",
+      "file": "assets/fonts/3MCircularWeb-Bold..woff",
+      "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+    },
+    {
+      "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Light..woff",
+      "file": "assets/fonts/3MCircularWeb-Light..woff",
+      "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+    }
+  ]
+}

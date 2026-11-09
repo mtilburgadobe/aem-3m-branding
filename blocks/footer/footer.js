@@ -1,20 +1,42 @@
 import { getMetadata } from '../../scripts/aem.js';
 import { loadFragment } from '../fragment/fragment.js';
 
+function slot(className, section) {
+  const wrapper = document.createElement('div');
+  wrapper.className = className;
+  const content = section?.querySelector('.default-content-wrapper');
+  if (content) wrapper.append(...content.childNodes);
+  return wrapper;
+}
+
 /**
- * loads and decorates the footer
- * @param {Element} block The footer block element
+ * Authored /footer: four link groups, legal band, social group, trademark.
+ * Preserve authored paragraphs/lists/images for inline editing.
  */
 export default async function decorate(block) {
-  // load footer as fragment
-  const footerMeta = getMetadata('footer');
-  const footerPath = footerMeta ? new URL(footerMeta, window.location).pathname : '/footer';
-  const fragment = await loadFragment(footerPath);
-
-  // decorate footer DOM
-  block.textContent = '';
-  const footer = document.createElement('div');
-  while (fragment.firstElementChild) footer.append(fragment.firstElementChild);
-
-  block.append(footer);
+  const path = new URL(getMetadata('footer') || '/footer', window.location).pathname;
+  const fragment = await loadFragment(path);
+  if (!fragment) return;
+  const sections = [...fragment.children];
+  const inner = slot('footer-inner');
+  const grid = slot('footer-grid');
+  sections.slice(0, 4).forEach((section) => grid.append(slot('footer-group', section)));
+  const legal = slot('footer-information', sections[4]);
+  const pictureParagraph = legal.querySelector('p:has(img)');
+  if (pictureParagraph) {
+    const mark = slot('footer-mark');
+    mark.append(pictureParagraph);
+    legal.prepend(mark);
+  }
+  const list = legal.querySelector('ul');
+  if (list) {
+    const links = slot('footer-legal');
+    list.before(links);
+    links.append(list);
+  }
+  const bottom = slot('footer-bottom');
+  bottom.append(legal, slot('footer-social', sections[5]));
+  inner.append(grid, bottom, slot('trademark-note', sections[6]));
+  sections.slice(7).forEach((section) => inner.append(slot('footer-group', section)));
+  block.replaceChildren(inner);
 }

@@ -1,0 +1,12 @@
+{
+  "runtime": "vanilla-eds",
+  "blockWrapperClass": "block",
+  "sectionWrapper": "main > .section > .<name>-wrapper > .<name>.block",
+  "buttonClasses": ".button.primary / .button.secondary / .button.accent in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "cellNormalization": "wrapTextNodes wraps unlisted first children and media-led mixed cells in a paragraph",
+  "autoBlocks": "fragment links and /widgets/ URLs; no hero auto-block",
+  "fonts": "Approved Arial/Helvetica system stack; no brand webfont redistribution"
+}

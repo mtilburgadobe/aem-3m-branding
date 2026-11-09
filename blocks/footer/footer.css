@@ -1,20 +1,30 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+.footer { padding-block: 48px 24px; border-top: 1px solid var(--color-rule); font-size: var(--body-sm); }
+.footer .footer-inner { width: min(calc(100% - 96px), var(--max-width)); margin-inline: auto; }
+.footer .footer-grid { display: grid; grid-template-columns: 1fr 0.8fr 1.8fr 0.8fr; gap: 48px; }
+.footer .footer-group h2, .footer .footer-social h2 { font-size: 18px; margin-bottom: 18px; }
+.footer .footer-group li + li { margin-top: 4px; }
+.footer .footer-group a { display: inline-block; min-height: 36px; padding-block: 7px; text-decoration: none; }
+.footer .footer-bottom { display: grid; grid-template-columns: 1fr auto; gap: 36px; margin-top: 48px; border-top: 1px solid var(--color-rule); padding-top: 32px; }
+.footer .footer-legal ul { display: flex; flex-wrap: wrap; gap: 4px 20px; margin-bottom: 18px; }
+.footer .footer-legal a { display: block; min-height: 36px; padding-block: 7px; }
+.footer .footer-social ul { display: flex; flex-wrap: wrap; gap: 10px 20px; }
+.footer .footer-social a { display: inline-flex; min-height: 36px; padding-block: 7px; }
+.footer .footer-mark { width: 56px; margin-bottom: 20px; line-height: 0; }
+.footer .trademark-note { margin-top: 28px; font-size: var(--body-sm); }
+.footer .footer-group a:hover { text-decoration: underline; }
+
+@media (width <= 960px) {
+  .footer .footer-inner { width: calc(100% - 64px); }
+  .footer .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
+  .footer .footer-bottom { grid-template-columns: 1fr; gap: 32px; }
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
-}
-
-footer .footer p {
-  margin: 0;
-}
-
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
-  }
+@media (width <= 640px) {
+  .footer .footer-inner { width: calc(100% - 48px); }
+  .footer .footer-grid { grid-template-columns: 1fr; gap: 28px; }
+  .footer .footer-group a, .footer .footer-legal a, .footer .footer-social a { min-height: 44px; padding-block: 10px; }
+  .footer .footer-group h2 { margin-bottom: 12px; }
+  .footer .footer-bottom { margin-top: 32px; padding-top: 28px; }
+  .footer .footer-legal ul { gap: 2px 18px; }
+  .footer .footer-legal a { min-width: 44px; }
 }

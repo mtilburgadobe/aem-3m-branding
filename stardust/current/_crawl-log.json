@@ -1,0 +1,49 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-09T07:16:29.669Z",
+    "readArtifacts": [
+      "stardust/current/pages/index.json",
+      "stardust/current/assets/screenshots/index.png"
+    ],
+    "synthesizedInputs": [
+      "Frequency aggregation and inferred component roles"
+    ],
+    "notes": "Homepage-only sample. PDF governs the target, not this descriptive snapshot."
+  },
+  "discovery": {
+    "fetchTechnique": "headed-chromium",
+    "count": 1,
+    "concurrency": 1,
+    "confirmedPages": [
+      "/"
+    ],
+    "userChoice": "Homepage prototype, then AEM implementation after approval",
+    "scope": "explicit homepage only; no wider crawl"
+  },
+  "consent": {
+    "method": "Clicked Reject Non-Essential Cookies; no clearance state persisted"
+  },
+  "favicon": {
+    "url": "https://www.3m.com/favicon.ico",
+    "file": "assets/favicon.ico"
+  },
+  "crawl": {
+    "failures": []
+  },
+  "visionCheck": [
+    {
+      "slug": "index",
+      "verdict": "recaptured",
+      "notes": "Consent dismissed on enrichment. Source hero blank with reduced motion; video URL and bytes verified. Imagery, six story cards, ten industry tabs, logo and footer agree with record."
+    }
+  ],
+  "siblingCandidates": [
+    {
+      "origin": "https://news.3m.com",
+      "confidence": "high",
+      "evidence": "Captured homepage news links",
+      "decision": "not included: homepage-only scope"
+    }
+  ]
+}

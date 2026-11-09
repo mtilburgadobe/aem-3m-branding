@@ -1,0 +1,72 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:prototype",
+    "writtenAt": "2026-11-09T08:34:23.048Z",
+    "readArtifacts": [
+      "stardust/state.json",
+      "stardust/prototypes/home-proposed.html",
+      "stardust/validation/home/summary.json"
+    ]
+  },
+  "site": {
+    "originUrl": "https://www.3m.com/",
+    "deployUrl": null,
+    "extractedAt": "2026-11-09T07:16:29.669Z",
+    "pageCap": 1,
+    "totalDiscovered": 1,
+    "crawled": 1
+  },
+  "direction": {
+    "resolvedAt": "2026-11-09T07:40:32.968Z",
+    "phrase": "Redesign 3m.com adhering to the supplied brand PDF",
+    "directionFile": "stardust/direction.md",
+    "iaFidelity": "reimagined"
+  },
+  "pages": [
+    {
+      "slug": "home",
+      "url": "https://www.3m.com/",
+      "title": "3M Science. Applied to Life. 3M United States",
+      "type": "landing",
+      "status": "prototyped",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-09T07:16:29.669Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-09T07:40:32.968Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-09T08:34:23.048Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/home-proposed.html",
+      "migratedPath": null,
+      "prototypeSha256": "054b9d9a1871cc406d2857a3628b9a2d1e8ea86335a3eff409202228cdffa5d7",
+      "validation": {
+        "at": "2026-11-09T08:34:23.048Z",
+        "P0": 0,
+        "P1": 0,
+        "widths": [
+          1920,
+          1440,
+          1280,
+          800,
+          768,
+          414,
+          390,
+          375,
+          360
+        ],
+        "approval": "approved",
+        "approvalEvidence": "looks good, let's move this into AEM in the project in the current directory"
+      }
+    }
+  ]
+}

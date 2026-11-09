@@ -1,0 +1,378 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-09T07:16:29.669Z",
+    "readArtifacts": [
+      "stardust/current/pages/index.json",
+      "stardust/current/assets/screenshots/index.png"
+    ],
+    "synthesizedInputs": [
+      "Frequency aggregation and inferred component roles"
+    ],
+    "notes": "Homepage-only sample. PDF governs the target, not this descriptive snapshot."
+  },
+  "schemaVersion": 2,
+  "name": "3M current homepage",
+  "colors": {
+    "text-secondary": "rgb(75, 75, 75)",
+    "legacy-link-blue": "rgb(0, 51, 204)",
+    "background": "rgb(255, 255, 255)",
+    "text-primary": "rgb(0, 0, 0)",
+    "brand-red": "rgb(209, 4, 17)",
+    "dark-surface": "rgb(32, 32, 36)"
+  },
+  "typography": {
+    "headingFamily": {
+      "name": "3MCircular",
+      "stack": "\"3MCircular\", Arial, sans-serif"
+    },
+    "bodyFamily": {
+      "name": "3MCircular",
+      "stack": "\"3MCircular\", Arial, sans-serif"
+    },
+    "headingStyles": [
+      {
+        "selector": "h1.mds-font_hero--text",
+        "tag": "h1",
+        "text": "What the world needs next, we are making now.",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.mds-content-cards_title.mds-font_hero--text",
+        "tag": "h2",
+        "text": "What’s new",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "25px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "The materials science powering semiconductor innovation",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "13-Year-Old Raji Doshi named America’s Top Young Scientist for inventing natural system to reduce CO2-driven ocean acidification",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "A note-worthy cameo: Post-it® Brand featured in DreamWorks Animation’s Forgotten Island",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "A customer challenge inspired the 3M Adhesive Mix Monitor",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "From electronics to agriculture: How 3M film technology is helping manage light in new ways",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--5",
+        "tag": "h3",
+        "text": "After a tornado, ScotchBlue Painter’s Tape became an unexpected sign of resilience",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.mds-heroBanner_title.mds-font_header--2a",
+        "tag": "h2",
+        "text": "From challenge to solution, in one conversation.",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "44px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.MMM--hdg.MMM--hdg_2.mix-MMM--hdg_spaced",
+        "tag": "h2",
+        "text": "What we do",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-content-cards_title.mds-font_header--4",
+        "tag": "h3",
+        "text": "Accelerating solutions to the industry’s toughest challenges",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "lineHeight": "30px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h2.mds-content-cards_title.mds-font_hero--text",
+        "tag": "h2",
+        "text": "Who we are",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "700",
+        "lineHeight": "70px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      },
+      {
+        "selector": "h3.mds-font_header--1",
+        "tag": "h3",
+        "text": "People. Ideas. Science. Reimagining what's possible.",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"3MCircular\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "45px",
+        "letterSpacing": "normal",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px"
+      }
+    ],
+    "files": [
+      {
+        "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Book..woff",
+        "file": "assets/fonts/3MCircularWeb-Book..woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      },
+      {
+        "url": "https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/fonts/3MThemeIconFont/fonts/3MThemeIconFont.woff?i2w8ja",
+        "file": "assets/fonts/3MThemeIconFont.woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      },
+      {
+        "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Bold..woff",
+        "file": "assets/fonts/3MCircularWeb-Bold..woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      },
+      {
+        "url": "https://www.3m.com/3m_theme_assets/static/MDS/assets/3MCircularWeb-Light..woff",
+        "file": "assets/fonts/3MCircularWeb-Light..woff",
+        "license": "Unverified; evidence only. Prototype uses PDF-permitted Arial fallback."
+      }
+    ],
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "sizes": [
+        18,
+        22,
+        32,
+        36,
+        42
+      ],
+      "ratios": [
+        1.222,
+        1.455,
+        1.125,
+        1.167
+      ],
+      "source": "pages/index.json#styles"
+    }
+  },
+  "rounded": {
+    "flat": "0px"
+  },
+  "extensions": {
+    "componentStyle": {
+      "buttons": "red rectangular CTA",
+      "cards": "white flat news cards",
+      "inputs": "pill search field",
+      "dualCTAPattern": false
+    },
+    "motifs": {
+      "borderRadius": {
+        "primary": "0px",
+        "occurrences": [
+          {
+            "value": "0px",
+            "occurrences": 110
+          },
+          {
+            "value": "0px 20px 20px 0px",
+            "occurrences": 1
+          },
+          {
+            "value": "2px",
+            "occurrences": 5
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "none",
+          "occurrences": 116
+        }
+      ],
+      "patterns": [
+        "video-hero",
+        "six-news-card-grid",
+        "vertical-industry-tabs",
+        "photo-backed-assistant",
+        "textured-company-panel"
+      ]
+    },
+    "voice": {
+      "heroHeadline": "What the world needs next, we are making now.",
+      "firstParagraph": "Meet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes.",
+      "heroImage": null,
+      "heroMedium": {
+        "kind": "video",
+        "url": "https://multimedia.3m.com/mws/media/2524044O/the-scientific-method-30s-no-music.mp4",
+        "localPath": "stardust/current/assets/media/hero.mp4",
+        "poster": null,
+        "source": "#homepage_HeroVideo",
+        "note": "Blank under reduced motion; source video has no poster."
+      },
+      "ctaSamples": [
+        "Try Ask 3M",
+        "Auto Care",
+        "Where to Buy"
+      ],
+      "navItems": [
+        "Products",
+        "Industries",
+        "Brands"
+      ]
+    },
+    "systemComponents": [
+      {
+        "kind": "header",
+        "count": 1,
+        "scope": "home-only",
+        "ctaLabels": [
+          "Products",
+          "Industries",
+          "Brands",
+          "Account",
+          "US - EN"
+        ],
+        "source": "pages/index.html#js-gsnMenu"
+      },
+      {
+        "kind": "footer",
+        "count": 1,
+        "scope": "home-only",
+        "headingSequence": [
+          "Our Company",
+          "News",
+          "Regulatory",
+          "Help",
+          "Follow Us"
+        ],
+        "source": "pages/index.html"
+      }
+    ],
+    "scope": "home-only"
+  }
+}

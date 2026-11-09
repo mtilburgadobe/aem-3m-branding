@@ -1,0 +1,90 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:direct",
+    "readArtifacts": ["stardust/current/_brand-extraction.json", "stardust/current/pages/index.json", "supplied 3M visual identity PDF", "stardust/direction.md"],
+    "synthesizedInputs": ["Responsive web token system"],
+    "authoredInputs": ["Balanced density and reimagined layout confirmed by user"]
+  },
+  "schemaVersion": 2,
+  "name": "3M — Possibility made clear",
+  "colors": {
+    "3m-red": "#D10411",
+    "3m-black": "#000000",
+    "3m-white": "#FFFFFF",
+    "3m-light-gray": "#D2D2D2",
+    "3m-dark-gray": "#595959"
+  },
+  "typography": {
+    "heading-xxl": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "72px", "fontWeight": 700, "lineHeight": 1.1, "letterSpacing": "-0.005em"},
+    "heading-xl": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "56px", "fontWeight": 700, "lineHeight": 1.1},
+    "heading-lg": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "40px", "fontWeight": 700, "lineHeight": 1.1},
+    "heading-md": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "28px", "fontWeight": 700, "lineHeight": 1.1},
+    "body": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "18px", "fontWeight": 400, "lineHeight": 1.55},
+    "body-sm": {"fontFamily": "Arial, Helvetica, sans-serif", "fontSize": "15px", "fontWeight": 400, "lineHeight": 1.55}
+  },
+  "rounded": {"primary": "0px"},
+  "spacing": {"xs": "4px", "sm": "8px", "md": "16px", "lg": "24px", "xl": "48px", "2xl": "96px", "section": "64px"},
+  "components": {
+    "button-primary": {"backgroundColor": "{colors.3m-red}", "textColor": "{colors.3m-white}", "rounded": "{rounded.primary}", "padding": "14px 24px"},
+    "button-secondary": {"backgroundColor": "{colors.3m-white}", "textColor": "{colors.3m-black}", "rounded": "{rounded.primary}", "padding": "14px 24px"},
+    "card": {"backgroundColor": "{colors.3m-white}", "textColor": "{colors.3m-black}", "rounded": "{rounded.primary}"},
+    "input": {"backgroundColor": "{colors.3m-white}", "textColor": "{colors.3m-black}", "rounded": "{rounded.primary}", "height": "48px"}
+  },
+  "extensions": {
+    "density": "balanced",
+    "colorMeta": {"source": "September 2026 PDF pp21,37,41-44", "longFormText": ["#000000", "#FFFFFF"]},
+    "typographyMeta": {"preferred": "3M Circular", "implemented": "PDF-permitted Arial fallback", "licensing": "Captured proprietary font files are evidence only, not redistributed", "headlineTrackingFloor": "-0.005em"},
+    "shadows": [],
+    "motion": {"signature": "Original hero film; poster-first, user pause/play, reduced-motion pause", "transitionDuration": 180, "easing": "cubic-bezier(0.16,1,0.3,1)"},
+    "breakpoints": {"phone": 640, "tablet": 960, "desktop": 1280, "containerMaxWidth": 1344},
+    "sectionPadding": {"desktop": 64, "tablet": 48, "mobile": 32},
+    "componentStyle": {"buttons": "red rectangular primary, black/white secondary", "cards": "open image/text story units", "inputs": "rectangular, labeled, native validation", "dualCTAPattern": false},
+    "systemComponentRoles": {
+      "header": {"purpose": "product and audience discovery", "positionClass": "top", "constraint": "top-left approved lockup and visible search"},
+      "footer": {"purpose": "institutional, legal and support access", "positionClass": "bottom", "constraint": "preserve captured destinations"},
+      "assistant": {"purpose": "refer to existing technical expertise service", "constraint": "no simulated assistant"}
+    },
+    "iaPriorities": [
+      {"signal": "search-led-ia", "evidence": "current/pages/index.json#forms: product search Ntt above the fold", "preserveAs": "first-viewport", "scope": "homepage", "mutability": "movable"},
+      {"signal": "audience-routing", "evidence": "current/pages/index.json#ctas: Products, Industries, Brands", "preserveAs": "first-viewport", "scope": "homepage", "mutability": "movable"}
+    ],
+    "divergence": {
+      "mode": "A",
+      "signal": "signal-strong",
+      "seed": {
+        "decade": {"value": "2025-now", "picked_by": "reasoned: retrieved contemporary science/brand references"},
+        "craft": {"value": "technical illustration precision", "picked_by": "reasoned: PDF grid and elements"},
+        "register": {"value": "scientific demonstration", "picked_by": "reasoned: source hero film and practical industry content"},
+        "ground_family": {"value": "stark-white", "picked_by": "user-constraint: PDF and captured white ground", "override": "brand-faithful"}
+      },
+      "font_deck": {"name": "brand-inherited", "picked_by": "user-constraint", "notes": "PDF-permitted Arial/Helvetica are static-only. Both display and body exempt from variable-axis engagement; no new font is authorized."},
+      "palette": {"source": "supplied September 2026 brand PDF", "picked_by": "user-constraint"},
+      "brand_faithful_inversions": [
+        {"rule": "no-pure-black-white", "decision": "retain #000000 and #FFFFFF", "basis": "PDF pp37,42 requires black/white type"},
+        {"rule": "overused-font", "decision": "Arial/Helvetica permitted fallback", "basis": "PDF p33 explicitly allows web/system sans"},
+        {"rule": "tight-leading", "decision": "1.1 headline leading retained; body remains 1.55", "basis": "PDF pp35-39 defines the headline relationship"},
+        {"rule": "oklch-only", "decision": "retain normative exact hex", "basis": "PDF p44 requires individually specified digital formulas"}
+      ],
+      "anti_toolbox_hits": [
+        {"rule": "overused-font", "count": 1, "disposition": "approved-brand-inversion", "basis": "PDF p33 permits Arial/Helvetica screen fallback"},
+        {"rule": "tight-leading", "count": 1, "disposition": "approved-brand-inversion", "basis": "PDF headline leading is 1.1; body remains 1.55"},
+        {"rule": "cramped-padding", "count": 4, "disposition": "false-positive", "basis": "Rendered section padding is 64px desktop, 48px tablet and 32px phone; token-based padding is not absent"}
+      ],
+      "off_toolbox_moves": ["source-film demonstration beside white headline", "lead news story with compact chronological list", "source-texture company panel"],
+      "references_used": [
+        {"source": "webfetch", "title": "BASF — We Create Chemistry", "url": "https://www.basf.com/global/en", "grounds": "retrieved explicit industry/product pathways; not a token donor", "tag": "in-category"},
+        {"source": "webfetch", "title": "IBM Design Language", "url": "https://www.ibm.com/design/language/", "grounds": "retrieved grid/photography/system structure; not a token donor", "tag": "off-toolbox"},
+        {"source": "webfetch", "title": "Design Museum", "url": "https://designmuseum.org/", "grounds": "retrieved content-specific storytelling and named destinations; not a token donor", "tag": "off-toolbox"}
+      ]
+    },
+    "voice": {"do": ["Genuine, imaginative, insightful", "Preserve captured factual copy", "Use sentence case"], "dont": ["Fabricated claims", "Editorial cosplay labels", "Rewritten factual statements without approval"]}
+  },
+  "narrative": {
+    "northStar": "Possibility made clear",
+    "overview": "Bold restraint and real science within the supplied 3M identity.",
+    "keyCharacteristics": ["Red-led recognition", "Black/white readability", "Precise three-column grid", "Genuine captured imagery"],
+    "rules": ["PDF outranks legacy website styling", "No re-created logo or badge", "No unverified proprietary font redistribution", "All customer discovery routes retained"],
+    "dos": ["Lead with 3M red", "Simple is smart", "Show and tell"],
+    "donts": ["Decorative geometry", "Rounded-card wall", "Gradient type", "Factual content fabrication"]
+  }
+}

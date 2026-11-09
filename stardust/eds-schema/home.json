@@ -1,0 +1,360 @@
+{
+ "source": "file:///Users/mtilburg/Github/aem-3m-branding/stardust/prototypes/home-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "hero",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What the world needs next, we are making now."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Explore industries",
+     "href": "#industries"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Play film"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "3M Science. Applied to Life."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Film unavailable. Try again to play."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "industries",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What we do"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Automotive"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Commercial Solutions"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Consumer"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Design & Construction"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Electronics"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Energy"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Government"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Manufacturing"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Transportation"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Choose your industry"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Automotive"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Commercial Solutions"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Consumer"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Design & Construction"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Electronics"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Energy"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Government"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Manufacturing"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Transportation"
+    },
+    {
+     "role": "heading",
+     "order": 22,
+     "text": "Accelerating solutions to the industry’s toughest challenges"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Our solutions help manufacture, maintain, or advance nearly every vehicle in the world. So, when we apply our diverse portfolio of technologies and 100-plus years of expertise to customer challenges, we can advance efficiency, performance, longevity, and safety for the entire industry."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Auto Care",
+     "href": "https://www.3m.com/3M/en_US/auto-care-us/"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Collision Repair",
+     "href": "https://www.3m.com/3M/en_US/collision-repair-us/"
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "Manufacturing & Assembly",
+     "href": "https://www.3m.com/3M/en_US/automotive-manufacturing-and-assembly-us/"
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "OEM & Tier",
+     "href": "https://www.3m.com/3M/en_US/oem-tier-us/"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Post-Factory Installation",
+     "href": "https://www.3m.com/3M/en_US/post-factory-installation-us/"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "3M Healthcare is now"
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Solventum.",
+     "href": "https://www.solventum.com/en-us/home/"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "<p>Choose an industry destination:</p><ul class=\"industry-links\"><li><a href=\"https://www.3m.com/3M/en_US/auto-care-us/\">Automotive</a></li><li><a href=\"https://www.3m.com/3M/en_US/post-factory-installation-us/\">Commercial Solutions</a></li><li><a href=\"https://www.3m.com/3M/en_US/auto-care-us/\">Consumer</a></li><li><a href=\"https://www.3m.com/3M/en_US/architectural-design-us/\">Design &amp; Construction</a></li><li><a href=\"https://www.3m.com/3M/en_US/communications-infrastructure-us/\">Electronics</a></li><li><a href=\"https://www.3m.com/3M/en_US/electrical-construction-maintenance-us/\">Energy</a></li><li><a href=\"https://www.3m.com/3M/en_US/defense-markets-us/\">Government</a></li><li><a href=\"https://www.3m.com/3M/en_US/appliance-us/\">Manufacturing</a></li><li><a href=\"https://www.3m.com/3M/en_US/facility-safety-us/\">Safety</a></li><li><a href=\"https://www.3m.com/3M/en_US/aerospace-us/\">Transportation</a></li></ul>"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "news",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What's new"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "News Center",
+     "href": "https://news.3m.com/"
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "A.story-row",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "assistant",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "From challenge to solution, in one conversation."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Meet Ask 3M, our AI-powered digital assistant offering real-time access to 3M's technical expertise. Currently specializing in Industrial Adhesives and Tapes."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Try Ask 3M",
+     "href": "https://ask.3m.com/?intcid=homepage-aug-26"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "company",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Who we are"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "About 3M",
+     "href": "https://www.3m.com/3M/en_US/about-3m/"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "People. Ideas. Science. Reimagining what's possible."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Leadership",
+     "href": "https://investors.3m.com/governance/corporate-officers"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Investment",
+     "href": "https://investors.3m.com/"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Careers",
+     "href": "https://www.3m.com/3M/en_US/careers-us/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Research and Development",
+     "href": "https://www.3m.com/3M/en_US/about-3m/research-development/"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Sustainability",
+     "href": "https://www.3m.com/3M/en_US/sustainability-us/"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "People and Community",
+     "href": "https://www.3m.com/3M/en_US/about-3m/people-community/"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "History",
+     "href": "https://www.3m.com/3M/en_US/about-3m/history/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 7,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}
