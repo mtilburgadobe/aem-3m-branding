@@ -92,7 +92,6 @@ export default function decorate(block) {
     const action = playing ? 'Pause' : 'Play';
     video.classList.toggle('is-playing', playing);
     button.textContent = `${failed ? 'Retry' : action} film`;
-    button.setAttribute('aria-label', `${failed ? 'Retry' : action} 3M science film`);
     status.hidden = !failed;
   }
   async function play() {

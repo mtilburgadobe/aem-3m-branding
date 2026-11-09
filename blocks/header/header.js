@@ -85,12 +85,21 @@ export default async function decorate(block) {
   skip.textContent = 'Skip to content';
   document.querySelector('main')?.setAttribute('id', 'main');
   const inner = slot('header-inner', brand, nav, buildSearch(searchLink), utility, menu);
-  block.replaceChildren(skip, inner);
   const image = brand.querySelector('img');
   if (image) {
+    const logoURL = new URL(image.getAttribute('src'), window.location.href);
+    if (logoURL.pathname.endsWith('.png')) {
+      // Lossy resized renditions soften the approved lockup and alter its aspect ratio.
+      logoURL.searchParams.delete('width');
+      logoURL.searchParams.delete('optimize');
+      logoURL.searchParams.set('format', 'png');
+      image.closest('picture')?.querySelectorAll('source').forEach((source) => source.remove());
+      image.src = logoURL.href;
+    }
     image.loading = 'eager';
     image.setAttribute('fetchpriority', 'high');
   }
+  block.replaceChildren(skip, inner);
   const desktop = window.matchMedia('(min-width: 961px)');
   const relocate = () => {
     if (!block.isConnected) return;
